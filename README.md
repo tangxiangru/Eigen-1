@@ -50,3 +50,15 @@ To run the agent on the HLE Bio/Chem dataset(`data/hle-bio.json`):
 ## Acknowledgment
 
 This repository benefit from [X-Master](https://github.com/sjtu-sai-agents/X-Master/tree/main).
+
+## Cite US
+
+```
+@article{tang2025eigen,
+  title={Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning},
+  author={Tang, Xiangru and Xu, Wanghan and Wang, Yujie and Guo, Zijie and Shao, Daniel and Chen, Jiapeng and Zhang, Cixuan and Wang, Ziyi and Zhang, Lixin and Wan, Guancheng and others},
+  journal={arXiv preprint arXiv:2509.21193},
+  year={2025}
+}
+
+```
