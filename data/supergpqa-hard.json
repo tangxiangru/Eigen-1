@@ -1,0 +1,646 @@
+[
+    {
+        "id": "d7af55482c354ccca12c26ee247407da",
+        "query": "If 4% of individuals in a balanced population exhibit a recessive trait controlled by a single gene, what is the probability that the offspring of two individuals who do not exhibit this trait will show the recessive trait?\n\nAnswer Choices:\nA. 8×$\\mathrm{10^{-3}}$\nB. 5.12×$\\mathrm{10^{-2}}$\nC. 6.4×$\\mathrm{10^{-3}}$\nD. 1.024×$\\mathrm{10^{-1}}$\nE. 1.28×$\\mathrm{10^{-1}}$\nF. 1.6×$\\mathrm{10^{-2}}$\nG. 2.56×$\\mathrm{10^{-2}}$\nH. 3.84×$\\mathrm{10^{-2}}$\nI. 4×$\\mathrm{10^{-2}}$\nJ. 7.68×$\\mathrm{10^{-2}}$",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "1e4bc89a675d4de498ab6bec91f6862e",
+        "query": "Ribonuclease is 1.65% leucine and 2.48% isoleucine by weight. Calculate its minimum molecular weight.\n\nAnswer Choices:\nA. 9.81 × 10^3\nB. 4.20 × 10^3\nC. 3.14 × 10^3\nD. 2.48 × 10^3\nE. 1.65 × 10^3\nF. 8.66 × 10^3\nG. 7.89 × 10^3\nH. 1.01 × 10^4\nI. 5.29 × 10^3\nJ. 6.02 × 10^3",
+        "gt": "G",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "1f15b77f17f844079c79654589c2896c",
+        "query": "Feathered shank (F) in chickens is dominant over bare shank, while the pea comb gene (P) is dominant over the single comb gene. When a feathered shank, pea comb rooster mates with a bare shank, pea comb hen, all offspring have feathered shanks. Most of them have pea combs, but some have single combs. What are the genotypes of the parents?\n\nAnswer Choices:\nA. $$\nFfpp \\times ffPP\n$$\nB. $$\nFfPp \\times FfPP\n$$\nC. $$\nFFpp \\times ffPp\n$$\nD. $$\nffPp \\times FFPp\n$$\nE. $$\nFfPP \\times FFpp\n$$\nF. $$\nFFPp \\times ffPP\n$$\nG. $$\nFfpp \\times ffPp\n$$\nH. $$\nFFpp \\times ffPP\n$$\nI. $$\nFFPP \\times ffpp\n$$\nJ. $$\nFfPP \\times ffPp\n$$",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "111f4e7ae83d48ab8c38a8c847927130",
+        "query": "An athlete takes 20 breathes per minute at room temperature. The air inhaled in each breath is 200 mL which contains 20% oxygen by volume, while exhaled air contains 10% oxygen by volume. Assuming that all the oxygen consumed is used for converting glucose into $CO_2$ and $H_2O(l)$, how much glucose will be burnt in the body in 1 hour and what is the heat produced? (Room temperature $= 27^{\\circ}\\! \\ C$ and enthalpy of combustion of glucose is $-2822.5 \\: kJ \\: mol^{-1} \\: at \\: 0^{\\circ}\\! \\ C$)\n\nAnswer Choices:\nA. a) $280\\ g$   b) $= 478.66 \\: kJ \\: heat$\nB. a) $180\\ g$   b) $= 458.66 \\: kJ \\:heat$\nC. a) $270\\ g$   b) $= 448.66 \\: kJ \\:heat$\nD. a) $200\\ g$   b) $= 468.66 \\: kJ \\: heat$\nE. a) $360\\ g$   b) $= 358.66 \\: kJ \\: heat$\nF. None of the above\nG. a) $190\\ g$   b) $= 455.66 \\: kJ \\:heat$\nH. a) $190\\ g$   b) $= 458.66 \\: kJ \\:heat$\nI. a) $180\\ g$   b) $= 455.66 \\: kJ \\:heat$\nJ. a) $210\\ g$   b) $= 468.66 \\: kJ \\: heat$",
+        "gt": "B",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "bfb2b07347ca4022b242a20e4ac4c002",
+        "query": "There is a type of animal that possesses a true coelom and develops anterior, middle, and posterior coelomic cavities during its developmental process. It has a developed metanephros that also functions as a reproductive duct. Marine species of this group exhibit a larval stage similar to the trochophore larva, and their fertilized eggs undergo radial cleavage. What type of animal does this group belong to?\n\nAnswer Choices:\nA. Vertebrates Exhibiting Radial Cleavage\nB. Early Echinoderm Larvae\nC. Transitional Types Between Protostomes and Deuterostomes\nD. Marine Mollusks with Radial Cleavage\nE. True Coelomates with Spiral Cleavage\nF. Deuterostomes\nG. Original Mouth Animals\nH. Protostome Animals with Trochophore Larvae\nI. Chordates with Unsegmented Coelom\nJ. Protostomes",
+        "gt": "C",
+        "category": "Biology/Zoology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "a40bb50fdb344b189b582074e9e0ad61",
+        "query": "A gene on two autosomes of a long-tailed parrot (located on different chromosomes, respectively) controls feather color. The B gene controls the production of blue, and the Y gene controls the production of yellow. A recessive mutation in each gene can cause the corresponding color to disappear. When two green parrots are crossed, they produce green, blue, yellow, and white offspring. Based on this information, what are the genotypes of the green parents?\n\nAnswer Choices:\nA. BbYy\nB. BBYy\nC. BByy\nD. BbYY\nE. BBYY\nF. Bbyy",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "e97b62f99cf047749798bd92b4edae89",
+        "query": "After crossing two homozygous strains of snapdragons (Antirrhinum) with white flowers, the following results were obtained:\nStrain 1 × Strain 2\n↓\n$\\mathbf{F}_{1}$ All white flowers\n$\\mathbf{F}_{2}$ 131 plants with white flowers 29 plants with red flowers\nPredict the results of backcrossing $\\mathbf{F}_{1}$ with each of the two parent strains is().\n\nAnswer Choices:\nA. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a b B}} & {{Red Flower}} \\\\ {{1 / 4}} & {{A a B B}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{White Flower}} \\\\ \\end{array}\n$$\nB. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{A A b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a B B}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{White Flower}} \\\\ \\end{array}\n$$\nC. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A A b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{A a b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{White Flower}} \\\\ \\end{array}\n$$\nD. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a B B}} & {{Red Flower}} \\\\ {{1 / 4}} & {{A a B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a b B}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{Red Flower}} \\\\ \\end{array}\n$$\nE. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a b b}} & {{White Flower}} \\\\ {{1 / 4}} & {{A a B B}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a A B B}} & {{White Flower}} \\\\ \\end{array}\n$$\nF. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A A B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{A A b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{White Flower}} \\\\ \\end{array}\n$$\nG. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a B B}} & {{White Flower}} \\\\ {{1 / 4}} & {{A a b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{A A b b}} & {{White Flower}} \\\\ \\end{array}\n$$\nH. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{A a b b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{A A B B}} & {{Red Flower}} \\\\ \\end{array}\n$$\nI. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A a B b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{A a b b}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a b b}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{Red Flower}} \\\\ \\end{array}\n$$\nJ. $$\n\\begin{array} {c c c} {{1 / 4}} & {{A A B b}} & {{Red Flower}} \\\\ {{1 / 4}} & {{A a b b}} & {{White Flower}} \\\\ {{1 / 4}} & {{a a B b}} & {{White Flower}} \\\\ {{1 / 4}} & {{A a B B}} & {{Red Flower}} \\\\ \\end{array}\n$$",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "c3e535aab227451a85141fa0a0145d4f",
+        "query": "The mass of a red blood cell is about 33 pg (where 1 $\\mathrm{p g}=1 0^{-1 2} \\mathrm{g}$,and it contains typically $3 \\times1 0^{8}$ haemoglobin molecules. Each haemoglobin molecule is a tetramer of myoglobin (see preceding exercise). What fraction of the mass of the cell is due to haemoglobin?\n\nAnswer Choices:\nA. $$\n0 .9 7\n$$\nB. $$\n0 .8 3\n$$\nC. $$\n0 .7 2\n$$\nD. $$\n0 .2 5\n$$\nE. $$\n0 .4 6\n$$\nF. $$\n0 .6 1\n$$\nG. $$\n0 .1 6\n$$\nH. $$\n0 .3 9\n$$\nI. $$\n0 .5 8\n$$\nJ. $$\n0 .0 4\n$$",
+        "gt": "A",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "50bc435f2eff423089f92a5da4651f34",
+        "query": "In peas, tall (D) is dominant to dwarf (d), yellow (G) is dominant to green (g), and round (W) is dominant to wrinkled (w). What fraction of the offspring of this cross would be homozygous recessive in all gene pairs? GgDdww×GgddWw\n\nAnswer Choices:\nA. Both 1/16 and 1/4 * 1/4 * 1/4 are correct\nB. 1/64\nC. 1/4\nD. 3/32\nE. 1/16\nF. 1/4 * 1/4 * 1/4\nG. 1/128\nH. 3/16\nI. 1/32\nJ. 1/8",
+        "gt": "A",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "ef067e944e1b4f918a80bb360c86b214",
+        "query": "Consider the problem of how plants might lift water from ground level to their leaves. Assume that there is a semipermeable membrane at the roots, with pure water on the outside, and an ideal solution inside a small cylindrical capillary inside the plant. The solute mole fraction inside the capillary is $x=0. 0 0 1$ . The radius of the capillary is $1 0^{-2}$ cm.The gravitational potential energy that must be overcome is $mgh$, where m is the mass of the solution, and $g$ is the gravitational constant, $9 8 0 \\, \\mathrm{c m} \\, \\mathrm{s}^{-2}$\n. The density of the solution $= 1 \\mathrm{g} \\ \\mathrm{c m}^{-3}$.\nWhat is the height of the solution at room temperature?\n\nAnswer Choices:\nA. $$\nh ~ ~ \\approx~ 1 0^{-5} ~ \\mathrm{c m}\n$$\nB. $$\nh ~ ~ \\approx~ 1 0^{8} ~ \\mathrm{c m}\n$$\nC. $$\nh ~ ~ \\approx~ 1 0^{-1} ~ \\mathrm{c m}\n$$\nD. $$\nh ~ ~ \\approx~ 1 0^{-6} ~ \\mathrm{c m}\n$$\nE. $$\nh ~ ~ \\approx~ 1 0^{2} ~ \\mathrm{c m}\n$$\nF. $$\nh ~ ~ \\approx~ 1 0^{-7} ~ \\mathrm{c m}\n$$\nG. $$\nh ~ ~ \\approx~ 1 0^{1} ~ \\mathrm{c m}\n$$\nH. $$\nh ~ ~ \\approx~ 1 0^{-3} ~ \\mathrm{c m}\n$$\nI. $$\nh ~ ~ \\approx~ 1 0^{-4} ~ \\mathrm{c m}\n$$\nJ. $$\nh ~ ~ \\approx~ 1 0^{-8} ~ \\mathrm{c m}\n$$",
+        "gt": "J",
+        "category": "Biology/Botany",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "6e1400b5af3f4a3ca21f18eb6559373e",
+        "query": "Based on the components obtained from the hydrolysis of individual peptides, deduce the sequence of amino acid residues in the peptide:\nThe components containing arginine, proline, glycine, serine, and phenylalanine decompose into the following fragments: Arg-Pro-Pro, Gly-Phe-Ser, Pro-Phe-Arg, Pro-Gly-Phe, Ser-Pro-Phe.\nIt is ____.\n\nAnswer Choices:\nA. Phe-Pro-Arg-Gly-Ser Pro-Gly-Glu-Phe-Pro (echoes viable assembly).\nB. Phe-Ser-Pro-Gly-Gly Pro-Pro-Glu-Phe-Phe (imitates theoretical chain).\nC. Gly-Ser-Pro-Arg-Phe Phe-Ser-Glu-Pro-Phe (portrays alternate sequence).\nD. Ser-Phe-Arg-Pro-Phe Gly-Pro-Glu-Pro-Phe (suggests common sequence).\nE. Pro-Gly-Phe-Ser-Pro Phe-Phe-Glu-Pro-Pro (can be a cyclic polypeptide).\nF. Gly-Phe-Arg-Pro-Pro Phe-Ser-Glu-Gly-Phe (resembles plausible chain).\nG. Arg-Phe-Pro-Gly-Gly Pro-Ser-Glu-Phe-Arg (appears linear variant).\nH. Ser-Gly-Pro-Phe-Phe Pro-Phe-Glu-Arg-Arg (mimics potential structure).\nI. Pro-Arg-Ser-Phe-Gly Pro-Phe-Glu-Phe-Gly (likewise conceivable layout).\nJ. Gly-Arg-Ser-Pro-Pro Phe-Phe-Glu-Phe-Gly (resembles linear arrangement).",
+        "gt": "E",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "d4e0efb9b2f64f14b8fb2e4a67048317",
+        "query": "Individuals who are recessive homozygous for phenylketonuria are patients with a severe metabolic defect. If both parents appear normal but have a daughter with the disease and a son who appears normal, what is the probability that the couple will have another normal son who does not carry the disease gene?\n\nAnswer Choices:\nA. $\\mathrm{\\frac{1}{8}}$\nB. $\\mathrm{\\frac{7}{12}}$\nC. $\\mathrm{\\frac{1}{3}}$\nD. $\\mathrm{\\frac{3}{4}}$\nE. $\\mathrm{\\frac{7}{8}}$\nF. $\\mathrm{\\frac{1}{4}}$\nG. $\\mathrm{\\frac{1}{2}}$\nH. $\\mathrm{\\frac{2}{3}}$\nI. $\\mathrm{\\frac{1}{6}}$\nJ. $\\mathrm{\\frac{5}{6}}$",
+        "gt": "A",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2491f609f7864646b04923a73841085c",
+        "query": "If A/a, B/b, C/c, D/d, and E/e each determine a pair of contrasting traits, the following hybridization is now conducted: First parent (A/a; B/b; C/c; D/d; E/e) × Second parent (a/a; B/b; c/c; D/d; e/e). Among the offspring produced, the proportion with the same phenotype as the first parent is: ___.\n\nAnswer Choices:\nA. 7/64\nB. 7/128\nC. 3/32\nD. 9/64\nE. 1/16\nF. 9/128\nG. 1/32\nH. 5/64\nI. 11/256\nJ. 1/8",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "fa39a693833c4366a62f8938f323dceb",
+        "query": "Assume each tube is inoculated with approximately 50 bacterial cells for 200 tubes, and then cultured until each tube contains millions of cells. One hundred of these cultures are individually placed onto plates with $\\mathbf{T}_{1}$ bacteriophage. The other hundred cultures are placed onto plates with $\\mathbf{T}_{4}$ bacteriophage. After overnight incubation, 95 of the $\\mathbf{T}_{1}$ plates and 5 of the $\\mathbf{T}_{4}$ plates have some colonies. By how many times is the mutation rate for $\\mathbf{T}_{1}$ resistance greater than that for $\\mathbf{T}_{4}$ resistance?\n\nAnswer Choices:\nA. $$\n\\approx2 3\n$$\nB. $$\n\\approx1 5\n$$\nC. $$\n\\approx8 2\n$$\nD. $$\n\\approx6 0\n$$\nE. $$\n\\approx4 0\n$$\nF. $$\n\\approx9 5\n$$\nG. $$\n\\approx5 0\n$$\nH. $$\n\\approx7 5\n$$\nI. $$\n\\approx2 5\n$$\nJ. $$\n\\approx3 0\n$$",
+        "gt": "D",
+        "category": "Biology/Microbiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "047b1db0f1f244c29821bb8381f61c64",
+        "query": "The eyes of a certain strain of fruit flies exhibit four colors: wild type, orange 1, orange 2, and pink. The following displays the true inheritance patterns resulting from crosses between these strains. If F1 offsprings from an orange 1 x orange 2 cross are crossed, what proportion of wild type would occur in the F2 generation?\nCross\nWild type x Orange 1\nWild type x Orange 2\nOrange 1 x Orange 2\nOrange 2 x Pink\nF1 (Orange 1)(Orange 2) x Pink\nF1 Results:\nAll wild type\nAll wild type\nAll wild type\nAll orange 2\n1/4 wild type, 1/4 orange 1, 1/4 orange 2, 1/4 pink\n\nAnswer Choices:\nA. 9/16\nB. 2/3\nC. 5/16\nD. 3/8\nE. 11/16\nF. 1/2\nG. 3/4\nH. 7/16\nI. 5/8\nJ. 1/3",
+        "gt": "A",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "40bbed2391fb4ceb8f380d0e58d36e25",
+        "query": "It is estimated that the net arnount of carbon dioxide fixed by photosynthesis on the landmass of Earth is 5.5 $\\times$ $1 0^{1 6} \\, \\mathrm{g / yr}$ of $\\mathrm{C O_{2}}$. Assume that all this carbon is converted into glucose.Calculate the energy stored by photosynthesis on land per year in kJ.\n\nAnswer Choices:\nA. $$\n4. 5 \\times1 0^{1 6} \\, \\mathrm{k J}\n$$\nB. $$\n5. 2 \\times1 0^{1 8} \\, \\mathrm{k J}\n$$\nC. $$\n7. 1 \\times1 0^{1 8} \\, \\mathrm{k J}\n$$\nD. $$\n3. 9 \\times1 0^{1 6} \\, \\mathrm{k J}\n$$\nE. $$\n6. 4 \\times1 0^{1 9} \\, \\mathrm{k J}\n$$\nF. $$\n5. 7 \\times1 0^{1 9} \\, \\mathrm{k J}\n$$\nG. $$\n1. 9 \\times1 0^{1 6} \\, \\mathrm{k J}\n$$\nH. $$\n2. 5 \\times1 0^{1 7} \\, \\mathrm{k J}\n$$\nI. $$\n4. 2 \\times1 0^{1 5} \\, \\mathrm{k J}\n$$\nJ. $$\n5. 8 \\times1 0^{1 7} \\, \\mathrm{k J}\n$$",
+        "gt": "J",
+        "category": "Biology/Ecology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "790b06427b054007b473f2e5e3033caa",
+        "query": "Hemoglobin, the protein responsible for carrying oxygen from the lungs to the body tissues, contains 0.355 per cent iron. Hydrolysis of 100 g of hemoglobin gives 1.48 g of tryptphan ; calculate the minimum molecular weight of hemoglobin which is consistent with these results.\n\nAnswer Choices:\nA. 56\nB. 15,800\nC. 7,500\nD. 32,000\nE. 13,800\nF. 66,500\nG. 23,800\nH. 150,000\nI. 204\nJ. 2,200",
+        "gt": "B",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "e030bbbd8afa480298c3070d42af80a1",
+        "query": "Each time a person's heart beats, the left ventricle ejects $0.07 \\mathrm{kg}$ of blood, injecting it into the aorta at a pressure of $26660 \\mathrm{Pa}$. With a heart rate of 75 beats per minute, the work done by the left ventricle over 24 hours is____. (Assume the average speed of blood flow in the aorta is $0.4 \\mathrm{m/s}$.)\n\nAnswer Choices:\nA. $$\n7. 3 4 \\times1 0^{3} \\mathrm{J}\n$$\nB. $$\n2. 7 5 \\times1 0^{5} \\mathrm{J}\n$$\nC. $$\n9. 2 5 \\times1 0^{6} \\mathrm{J}\n$$\nD. $$\n3. 5 0 \\times1 0^{5} \\mathrm{J}\n$$\nE. $$\n5. 6 9 \\times1 0^{6} \\mathrm{J}\n$$\nF. $$\n8. 9 9 \\times1 0^{5} \\mathrm{J}\n$$\nG. $$\n1 0. 8 8 \\times1 0^{6} \\mathrm{J}\n$$\nH. $$\n4. 8 1 \\times1 0^{4} \\mathrm{J}\n$$\nI. $$\n1. 9 3 \\times1 0^{5} \\mathrm{J}\n$$\nJ. $$\n6. 1 2 \\times1 0^{4} \\mathrm{J}\n$$",
+        "gt": "I",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "ece14999cd564757a09032103976b7f9",
+        "query": "Pea-comb chickens are crossed with rose-comb chickens, $\\mathrm{F_1}$ shows a walnut comb, and when $\\mathrm{F_1}$ undergoes self-pollination, the $\\mathrm{F_2}$ generation exhibits a ratio of 9 walnut combs: 3 pea combs: 3 rose combs: 1 single comb. If the rose-comb chickens from $\\mathrm{F_2}$ are crossed with single-comb chickens, what are the phenotypes and their ratios in the offspring?\n\nAnswer Choices:\nA. 2 Roses: 1 Single Crown\nB. 1 Walnut : 3 Single Crowns\nC. 2 Roses : 2 Single Crowns\nD. 2 Walnut : 1 Single Crown\nE. 3 Roses : 1 Single Crown\nF. 1 Rose : 3 Walnut Comb\nG. 1 Rose : 1 Single Comb\nH. 1 rose : 2 single crowns\nI. 3 Roses : 2 Walnut Combs\nJ. 3 Rose : 1 Walnut Comb",
+        "gt": "A",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "52f6794e051246318ea10238114e7060",
+        "query": "Drought, high temperatures, low temperatures, and salinity stress primarily cause common damage to plant cells, which is first reflected in which of the following aspects?\n\nAnswer Choices:\nA. Water Stress\nB. Stomatal Closure Irregularity\nC. Genetic Coding Alteration\nD. Protein Synthesis Disruption\nE. Chlorophyll Decomposition Increase\nF. Photosynthesis Abnormality\nG. Cellular Respiration Decline\nH. Root System Growth Halt\nI. Membrane Structure Failure\nJ. Metabolic Disorders",
+        "gt": "I",
+        "category": "Biology/Cell Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2075a13467434dfd8333e2af2a1c9fee",
+        "query": "The distance between the genes $ a, b, c ,d $ in mapping units are$ a-d=3.5;b-c=1;a-b=6;c-d=1.5;a-c=5$find out the sequence of arrangement of these genes.\n\nAnswer Choices:\nA. $$adcb$$\nB. acbd\nC. adbc\nD. $$acdb$$\nE. $$abdc$$\nF. $$dbca$$\nG. abcd",
+        "gt": "D",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "6c379eaf2cdc47d3a95b0968a1754aff",
+        "query": "From the biological standard half-cell potentials $E^{\\oplus} ( \\mathrm{O}_{2}, \\mathrm{H}^{+}, \\mathrm{H}_{2} \\mathrm{O} )=+0. 8 2 \\mathrm{V}$ and $E^{\\oplus} ( \\mathrm{N A D H^{+}, H^{+}, N A D H} )=-0. 3 2 \\, \\mathrm{V},$ calculate the standard potential arising from the reaction in which NADH is oxidized to NAD* and the corresponding biological standard reaction Gibbs energy.\n\nAnswer Choices:\nA. $$\n{-4 4 0 \\mathrm{~ k J ~ m o l^{-1}}}\n$$\nB. $$ {-2 2 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nC. $$ {-6 0 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nD. $$ {-5 5 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nE. $$ {+1 8 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nF. $$ {+4 0 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nG. $$ {-1 1 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nH. $$ {+3 5 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nI. $$ {-3 7 0 \\mathrm{~ k J ~ m o l^{-1}}} $$\nJ. $$ {+2 4 0 \\mathrm{~ k J ~ m o l^{-1}}} $$",
+        "gt": "A",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7ce68145b2e042c78f7e9b2357297dbd",
+        "query": "The length ratio between the ring finger and the index finger is determined by a single-gene sex-linked hereditary trait. A shorter index finger compared to the ring finger is a dominant trait in males and a recessive trait in females. In an ideal population, the proportion of males with a shorter index finger than the ring finger is 51%. What is the proportion of this trait in females?\n\nAnswer Choices:\nA. 59%\nB. 9%\nC. 51%\nD. 49%\nE. 39%\nF. 69%\nG. 29%\nH. 79%\nI. 19%\nJ. 91%",
+        "gt": "B",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2eccc176c8c844738cfa3cb7d1ca9a37",
+        "query": "Currently, there are two strains of fruit, strain Alpha (AABBCC) and strain Beta (aabbcc), which are crossed. Then, their F₁ generation is test-crossed, and the results show the number of each phenotype as follows: ABC - 21, AbC - 24, aBc - 25, abc - 120. Based on this, what is the genotype of the F₁ generation?\n\nAnswer Choices:\nA. ACBacb\nB. AaBcBC\nC. AbabCc\nD. AcABbc\nE. ABCabc\nF. AAbbCC\nG. AaBbCc\nH. AcacBb\nI. ABabCc\nJ. ABCaBc",
+        "gt": "A",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "f0a7db9e75a14a15a5b70ef1c838eb5f",
+        "query": "A female fruit fly with a genotype of AaBbCcDd can produce 16 types of gametes, with the types and proportions as follows:\nABCD: 18% aBCD: 18% Abcd: 18% abcd: 18% ABcd: 2% aBcd: 2% AbCD: 2% abCD: 2% ABCd: 4% aBCd: 4% AbcD: 4% abcD: 4% ABcD: 1% abcD: 1% ABCd: 1% abCd: 1%\nThe relationship between the four genes is:\n\nAnswer Choices:\nA. AC/ac BD/bd\nB. Ac/ac BD/bc\nC. AB Cd ab cd\nD. A/a BCD/bcd\nE. A/B CD cd/bc\nF. ABC/abc D/d\nG. AB/ab C/D\nH. AB/ab CD/cd\nI. Aa Bb Cc Dd\nJ. A/a BC/bc Dd/dd",
+        "gt": "D",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "f6cf214aa91d4bd39669d8d4447a2645",
+        "query": "Oxygen and carbon monoride compete for binding to hemoglobin. If enough CO binds to hemoglobin,\nthe ability of the blood to deliver oxygen is impaired, and carbon monoride poisoning ensues. Consider the hemoglobin molecule to be a two-state system: the heme group is bound either to $O_{2}$ or to CO. Calculate the probability of binding to CO is(). Let the $G$ factor of Eq. 3.25 be equal to the ratio of the concentrations of CO and $O_{2}$ . Assume CO is 100 times less abundant than $O_{2}$ . CO is more tightly bound than $O_{2}$ to the heme group by about $0. 1 5 \\, \\mathrm{e V}$ . Let $T=3 0 0 \\, \\mathrm{K}$ .\n\nAnswer Choices:\nA. 5.29\nB. 1.34\nC. 0.42\nD. 6.47\nE. 2.18\nF. 4.89\nG. 9.13\nH. 8.66\nI. 3.72\nJ. 7.01",
+        "gt": "I",
+        "category": "Biology/Biophysics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "bffc5254686f42e48d236d0e2751f387",
+        "query": "There is a combination, AaBbCc x AaBbCc. Assume that all three genes are free to combine and are fully dominant and have different phenotypes. Then the probability that in the offspring, the phenotype is completely homozygous for the parent is ___.\n\nAnswer Choices:\nA. 12/64\nB. 15/64\nC. 6/64\nD. 1/4\nE. 9/64\nF. 27/64\nG. 1/64\nH. 3/64\nI. 5/64\nJ. 1/8",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "fc6f4e2624db46b9850861f3f5b4c77f",
+        "query": "The human body contains 18% C and 0.2% K. Under natural conditions, the ratio of the atomic numbers of 14C to 12C is 1.2:1012, and the half-life of 14C is 5,700 a. The natural abundance of 40K is 0.0117%, with a half-life of 1.248 x 109 a. The total activity in the body of a person weighing 75 kg is ___.\n\nAnswer Choices:\nA. 0.211μCi\nB. 0.210μCi\nC. 0.250μCi\nD. 0.213μCi\nE. 0.120μCi\nF. 0.190μCi\nG. 0.212μCi\nH. 0.200μCi\nI. 0.315μCi",
+        "gt": "G",
+        "category": "Biology/Biophysics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "1d74efd3d98949e29c918b26d93ff381",
+        "query": "Mix 1.7 mg of pure enzyme (molecular weight = 55000) with an excess of iodoacetamide $-^{14}C(S. A. =2\\mu Ci/mmol)$ and incubate. Precipitate the carboxymethylated protein, wash away the unreacted iodoacetamide $-^{14}C$, and dissolve it in a small amount of buffer solution. Count the entire solution with a scintillation counter operating at 80% efficiency. Within 1 hour, the sample shows 13190 counts above background (exceeding the background). Calculate the number of reactive SH groups per protein molecule.\n\nAnswer Choices:\nA. Each $3.09 \\times 10^{-8} M$ of enzyme contains $5.00 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nB. Each $3.09 \\times 10^{-8} M$ of enzyme contains $8.25 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nC. Each $3.09 \\times 10^{-8} M$ of enzyme contains $6.19 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nD. Each $3.09 \\times 10^{-8} M$ of enzyme contains $3.50 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nE. Each $3.09 \\times 10^{-8} M$ of enzyme contains $5.20 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nF. Each $3.09 \\times 10^{-8} M$ of enzyme contains $9.00 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nG. Each $3.09 \\times 10^{-8} M$ of enzyme contains $4.50 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nH. Each $3.09 \\times 10^{-8} M$ of enzyme contains $5.75 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nI. Each $3.09 \\times 10^{-8} M$ of enzyme contains $7.00 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).\nJ. Each $3.09 \\times 10^{-8} M$ of enzyme contains $6.50 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).",
+        "gt": "C",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "9c4339c8239746ed94d987dcbffafe32",
+        "query": "Add $10 \\text{mCi}^{14}\\text{C}$-labeled inulin (Inula Flower Pollen $\\mathbf{C}_{6} \\mathbf{H}_{10} \\mathbf{O}_{5}$) to a $15 \\text{ml}$ yeast suspension. Then centrifuge the suspension and carefully remove the supernatant. The deposited yeast pellet occupies a volume of $0.2 \\text{ml}$ and contains 10,000 counts per minute, with a counting efficiency of 25%. Calculate the proportion of the interstitial space in the yeast pellet is(). (Assume the inulin cannot pass through yeast cells and is not adsorbed on the cell surface.)\n\nAnswer Choices:\nA. $$\n2 5. 6 \\%\n$$\nB. $$\n1 2. 3 \\%\n$$\nC. $$\n2 8. 4 \\%\n$$\nD. $$\n2 0. 5 \\%\n$$\nE. $$\n1 0. 2 \\%\n$$\nF. $$\n1 5. 8 \\%\n$$\nG. $$\n1 1. 1 \\%\n$$\nH. $$\n1 8. 7 \\%\n$$\nI. $$\n1 3. 4 \\%\n$$\nJ. $$\n1 7. 9 \\%\n$$",
+        "gt": "I",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "d414805eca124d7ab575c2c830c356d5",
+        "query": "Suppose that $L_ {p}$ expressed in $m^{3} N^{-1} s^{-1}$or m $s^ {-1} Pa^{-1}$. The search conversion factor is expressed as ____ in ml $min^{-l} cm^{-2} torr^{-l}$.\n\nAnswer Choices:\nA. $$9. 8 7 \\times1 0^{5} L_{p} $$\nB. $$7. 9 8 \\times1 0^{5} L_{p} $$\nC. $$5. 6 7 \\times1 0^{5} L_{p} $$\nD. $$9. 9 9 \\times1 0^{5} L_{p} $$\nE. $$8. 7 9 \\times1 0^{5} L_{p} $$\nF. $$3. 4 5 \\times1 0^{5} L_{p} $$\nG. $$7. 8 9 \\times1 0^{5} L_{p} $$\nH. $$6. 7 8 \\times1 0^{5} L_{p} $$\nI. $$1. 2 3 \\times1 0^{5} L_{p} $$\nJ. $$2. 3 4 \\times1 0^{5} L_{p} $$",
+        "gt": "G",
+        "category": "Biology/Biophysics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7d4e96459e124c8d87c8eec385406f24",
+        "query": "It is known that a rough Neurospora crassa strain deficient in adenine reverts to prototrophy under the influence of a suppressor gene located 25 map units away from the original mutation. If this strain is crossed with the wild type, what percentage of the offspring will exhibit the adenine-deficient phenotype?\n\nAnswer Choices:\nA. 25%\nB. 87.5%\nC. 62.5%\nD. 75%\nE. 50%\nF. 0\nG. 100%\nH. 6.25%\nI. 37.5%\nJ. 12.5%",
+        "gt": "J",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "ababb05448cb466b995ea3a294b3f8ac",
+        "query": "In the gene pool of an animal population, there is a locus with heterozygous advantage that contains a pair of alleles A and a, with frequencies p and q, respectively. The fitness of the homozygotes AA and aa are ω and ν, respectively. Under the condition where natural selection is the only evolutionary influence, what will the frequencies be?\n\nAnswer Choices:\nA. When the two alleles reach frequency equilibrium, $p=(1-\\omega)/(2-\\omega-\\nu)$.\nB. When the two alleles reach frequency equilibrium, $p = (1 - \\omega) / (2 - \\nu - \\omega)$.\nC. When the two alleles reach frequency equilibrium, \\( p = \\frac{1 - \\nu}{2 - \\nu + \\omega} \\).\nD. When two alleles reach frequency equilibrium, \\( q = \\frac{1 - \\nu}{2 - \\omega + \\nu} \\)\nE. When two alleles reach frequency equilibrium, $q = (1 - \\omega) / (2 - \\omega - \\nu)$\nF. When two alleles reach frequency equilibrium, \\( q = (1 - \\omega) / (2 - \\nu - \\omega) \\).\nG. When the two alleles reach frequency equilibrium, $q = (1 - \\nu) / (2 - \\nu - \\omega)$.\nH. When two alleles reach frequency equilibrium, $p = (1 - \\nu) / (2 - \\nu - \\omega)$.\nI. When the two alleles reach frequency equilibrium, $p = \\frac{1-\\nu}{2-\\omega+\\nu}$.\nJ. When two alleles reach frequency equilibrium, \\( q = \\frac{1 - \\omega}{2 - \\nu + \\omega} \\).",
+        "gt": "E",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "36f4dc7b68f241b8873159d3303fec86",
+        "query": "Cytological examination of mitosis in a somatic cell of a biological individual revealed the presence of a chromosomal bridge during the anaphase, indicating which type of chromosome this biological individual might contain?\n\nAnswer Choices:\nA. Inversion within the arm\nB. Unequal chromosomal split\nC. Chromosomal duplication\nD. Mutual Transposition\nE. The apex is missing.\nF. Centrosome misalignment\nG. Inverted Position Between Arms\nH. Extra centromere presence\nI. Chromatid lagging bridge\nJ. Telomere shortening problem",
+        "gt": "E",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "56a61180765c4bbcbdffaf1c4fd510bb",
+        "query": "Closely related species H and G diverged from a common ancestor. If the nucleotide substitution rate of a certain gene is z per unit of time, and the total number of nucleotide substitutions between H and G is found to be X, what can be inferred about the divergence time of H and G?\n\nAnswer Choices:\nA. y=0.5x/2z\nB. y=x/2z\nC. y=0.5x/z\nD. y=$\\mathrm{x^{1/2}}$/z\nE. y=2z/x\nF. y=2x/z\nG. y=0.5z/x\nH. y=x/z\nI. y=z/0.5x\nJ. y=x/(0.5z)",
+        "gt": "C",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "b06afc3997974662986e009c41226c9c",
+        "query": "Since the primary oocytes of a certain organism contain 16 chromosomes, therefore?\n\nAnswer Choices:\nA. During metaphase of the second division in meiosis, paired centromeres align on the equatorial plate, symmetrically connected to the spindle fibers.\nB. During telophase of the second meiotic division, homologous chromosomes are restored, creating 16 identical nuclei.\nC. During prophase of the second meiotic division, chromosome pairs undergo synapsis, creating tetrads for separation.\nD. There are 16 dyads in the prophase of the second division of meiosis.\nE. During the anaphase of mitosis, all 16 chromatids move toward opposite poles, identical to parental cells.\nF. There are 16 tetrads in the prophase of the first division of meiosis.\nG. During metaphase of the first meiotic division, homologous chromosomes randomly align, but no chromatids separate.\nH. During the anaphase of the second meiotic division, 8 chromatids migrate to one pole, while another 8 migrate to the opposite pole.\nI. During metaphase of the first meiotic division, eight dyads form spindle connections, awaiting chromatid separation.\nJ. During the anaphase of the first meiotic division, 16 chromatids migrate to opposite poles, forming balanced gametes.",
+        "gt": "H",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "58d4f558e699419dbaf9054ceea30a1d",
+        "query": "In fruit flies, the allele b results in black body color for the fly, while 6 represents the wild-type body color. Another gene, wz (wazy), causes the wings to be waxy, with wz\" representing wild-type normal wings. The third gene, cn, results in vermilion eyes, whereas cn* refers to wild-type red eyes. Heterozygous females for these three genes were test-crossed, yielding 1,000 offspring with the following phenotypes and quantities: 5 wild-type; 6 black body, waxy wings, and vermilion eyes; 69 waxy wings and vermilion eyes; 67 black body; 382 vermilion eyes; 379 black body and waxy wings; 48 waxy wings; 44 black body and vermilion eyes. (Note: In the offspring phenotypes, unless mentioned otherwise, they are wild-type.) Calculate chromosome interference and coincidence coefficient.\n\nAnswer Choices:\nA. $I=1-(9/16.11)=31.3%$\nB. $I=1-(7/13.88)=32.6%$\nC. $I=1-(12/17.34)=26.7%$\nD. $I=1-(13/14.89)=29.9%$\nE. $I=1-(5/12.76)=36.2%$\nF. $I=1-(8/14.25)=29.4%$\nG. $I=1-(10/15.96)=28.8%$\nH. $I=1-(14/18.45)=24.1%$\nI. $I=1-(11/15.14)=27.4%$\nJ. $I=1-(6/11.58)=33.5%$",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "a2115f0dd6bf4fcda41db13862fd95e3",
+        "query": "Which of the following descriptions regarding the distinguishing characteristics of Bryopsida (mosses) and Hepaticopsida (liverworts) is correct?\n\nAnswer Choices:\nA. The sporangium of mosses in the Hepaticopsida lacks a calyptra, peristome teeth, and annular structure, whereas the sporangium of mosses in the Bryopsida possesses a calyptra, peristome teeth, and annular structure.\nB. The sporophyte of bryophytes is composed only of the sporangium and the foot, while the sporophyte of mosses is composed of the sporangium, seta, and foot.\nC. The archegonia in mosses are borne on specialized stalks in Bryopsida but are embedded in thalloid structures in Hepaticopsida.\nD. The rhizoids of the gametophyte in bryophytes of the Hepaticae class are unicellular, while the rhizoids in the Musci class are composed of a single row of cells and are unbranched.\nE. The gametophytes of Hepaticopsida always develop from a protonema, while gametophytes of Bryopsida directly arise from a spore.\nF. The leaves or leaf-like structures of gametophytes in Bryophyta lack a midrib; however, the vast majority of leaves in Musci possess a costa.\nG. Bryophytes within Hepaticopsida exhibit alternating heteromorphic generations, while Bryopsida exhibits strictly homomorphic generations.\nH. The reproduction of Hepaticopsida primarily depends on gemmae cups, and Bryopsida lacks structures for vegetative reproduction.\nI. Spore dispersal in Hepaticopsida is facilitated by elaters, while spore dispersal in Bryopsida depends on hygroscopic peristome teeth.\nJ. Hepaticopsida produces a sporophyte with photosynthetic capabilities, unlike the non-photosynthetic sporophyte of Bryopsida.",
+        "gt": "A",
+        "category": "Biology/Botany",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "67c4737fdecf44a98ec3557200283433",
+        "query": "Consider a population of garden peas in which the genes F for full pods and f for constricted pods are segregating. Assuming that gene frequencies for this population are found to be: p (frequency of F) = 0.7 and q (frequency of f) = 0.3, and that the population is in genetic equilibrium, what proportion of the progeny produced frommatingsof full-podded× full-poddedwill be constricted-podded?\n\nAnswer Choices:\nA. 0.21\nB. 0.3\nC. 0.6\nD. 0.7\nE. 0.81\nF. 0.01\nG. 0.0532\nH. 0.49\nI. 0.4\nJ. 0.09",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7c2191982b424c6fa85dd03dc412e970",
+        "query": "T_4phage that carrymutations in the genomic region calledrII cancause thelysisof strain B of E. coli but not of E. coli strainK. A plate of E. coli strain B is infected by two types of mutantphage simultaneously. The resultinglysateis divided inhalf. Half is diluted 1:10^7 and plated onto a lawn of E. coli strainB. The other half is diluted 1:10^5 and plated on strain K. Four plaques are found on K and 40 are found on B. Determine the amount of recombination between the two mutationsin this region of the T_4 genome.\n\nAnswer Choices:\nA. 1 percent\nB. 0.1 percent\nC. 0.2 percent\nD. 0.3 percent\nE. 0.5 percent\nF. 0.02 percent\nG. 5 percent\nH. 1.5 percent\nI. 2 percent\nJ. 0.05 percent",
+        "gt": "C",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "5e19e0c88d074381afd719501a7080a1",
+        "query": "The actual double crossover that occurs after homologous chromosome pairing often differs from the theoretical number of double crossovers. Try to analyze which of the following options is correct?\n\nAnswer Choices:\nA. If a certain segment of a chromosome undergoes negative interference, it means that the actual double crossover rate in this segment is lower than the theoretical double crossover rate, though double crossovers still occur.\nB. During the experiment, if the detection frequency is too high, it may result in a double exchange rate lower than the theoretical double exchange rate.\nC. When the genetic distance involved in the measurement is relatively short, due to significant interference effects, the actual double crossover rate does not align with the theoretical double crossover rate.\nD. In this section, when no double crossover occurs, a negative interference value is displayed due to the failure of the calculation formula.\nE. In certain species, when gene interference has a significant impact, the theoretical double crossover rate is underestimated, leading to errors.\nF. If there are stability issues with the chromosomes, the actual double crossover rate may exhibit unsystematic fluctuations.\nG. When the actual double exchange rate in this section equals the theoretical double exchange value, the concurrency rate obtained will exceed 1 due to the coefficient of 0.5 in the theoretical double exchange value calculation formula.\nH. During the experiment, if environmental conditions change rapidly, the actual double exchange rate often cannot synchronize with the expected value.\nI. When the double crossover rate occurring in this segment is higher than the theoretical double crossover rate, the resulting concurrency rate is greater than 1.\nJ. If a certain segment exhibits a high mutation rate, the theoretical double crossover rate may mislead the assessment of the actual double crossover rate.",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2cb286cffacc44029363b2ee20174ceb",
+        "query": "A woman with albinism (whose father is colorblind) marries a normal man (whose mother has albinism). The probability that their children will have both colorblindness and albinism is ().\n\nAnswer Choices:\nA. 18.75%\nB. 25.0%\nC. 5.0%\nD. 37.5%\nE. 75.0%\nF. 16.0%\nG. 12.5%\nH. 50.0%\nI. 6.25%\nJ. 0.0%",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "eedd810727e14bc894d247e6d08a7ff9",
+        "query": "The color of corn kernels is determined by three dominant genes A, C, and R. The kernels are colored when the genotype is A_CR_; all other genotypes are colorless. A corn plant with colored kernels is crossed with an accRR plant, resulting in 50% colored kernels; crossed with an aaCCrr plant, resulting in 25% colored kernels; and crossed with an AAccrr plant, resulting in 50% colored kernels. Write out the genotype of this corn plant is().\n\nAnswer Choices:\nA. AaCCrr\nB. aaCCRR\nC. AaCCRr\nD. AaCcRR\nE. AaCcRr\nF. aaccRR\nG. AAccRR\nH. AaccRR\nI. AAcrrr\nJ. AACCrr",
+        "gt": "C",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "8d51365d085442159687c1150f330420",
+        "query": "In Arabidopsis thaliana, the gene locus that determines pod length (L for long pods, l for short pods) and the gene locus that determines fruit hairiness (H for hairy, h for smooth) are located on the same chromosome, 16 map units (cM) apart. The F1 generation from the cross $LLHH × llhh$ and $LLhh × llHH$ are crossed with each other. What proportion of the expected offspring will be $Llhh$?\n\nAnswer Choices:\nA. 0.202\nB. 0.132\nC. 0.152\nD. 0.228\nE. 0.238\nF. 0.118\nG. 0.182\nH. 0.162\nI. 0.142\nJ. 0.218",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "9f5adcc55f2e46d4bafa5f07e2dd3149",
+        "query": "In the conjugation experiment, there is an $Hfr\\ a^{+} b^{+} \\operatorname{Str}^{s} \\times \\operatorname{F}^{-} a^{-} b^{-} \\operatorname{Str}^{r}$ cross, where it is known that genes $a$ and $b$ control nutrient requirements. The hybrid strains were first inoculated on a complete medium containing streptomycin to grow, and then 100 colonies were tested on different media, with the following results:\n(1) With the addition of substance $a$, 40 colonies were obtained.\n(2) With the addition of substance $b$, 20 colonies were obtained.\n(3) On the minimal medium, 10 colonies were obtained.\nWrite out the genotype of the third type of colony and calculate the recombination frequency between genes $a$ and $b$ is().\n\nAnswer Choices:\nA. $$\na^{+} b^{+},{50} \\%$$\nB. $$\na^{+} b^{-},{40} \\%$$\nC. $$\na^{-} b^{+},{80} \\%$$\nD. $$\na^{-} b^{+},{10} \\%$$\nE. $$\na^{-} b^{-},{90} \\%$$\nF. $$\na^{+} b^{-},{30} \\%$$\nG. $$\na^{+} b^{+},{80} \\%$$\nH. $$\na^{-} b^{-},{60} \\%$$\nI. $$\na^{+} b^{+},{0} \\%$$\nJ. $$\na^{+} b^{+},{20} \\%$$",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "b1292883447c4964834d2f93d9ad6866",
+        "query": "In rice, A is completely dominant over a, and B is completely dominant over b. When Ab/aB genotype plants are self-pollinated, the type with the lowest number of individuals among their offspring accounts for 0.16% of the total progeny. What is the genetic distance (in map units) between the A-a and B-b loci?\n\nAnswer Choices:\nA. 0,32\nB. 8\nC. 0.64\nD. 4\nE. 10\nF. 6\nG. 12\nH. 2\nI. 0.48\nJ. 0,16",
+        "gt": "B",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "89e025899e794a51b006a2fae9bd56fd",
+        "query": "In maize (corn) plants, a dominant allele I inhibit kernel color, while recessive allele i permits color when homozygous. At a different locus, the dominant allele P causes purple kernel color, while the homozygous recessive genotype pp causes red kernels. If plants heterozygous at both loci are crossed, what will be the phenotypic ratio of the offspring?\n\nAnswer Choices:\nA. 9:4:3:0\nB. 9:4:3:1\nC. 9:3:2:2\nD. 9:3:2:0\nE. 9:3:4:0\nF. 9:3:4:1\nG. 9:3:3:2\nH. 9:3:2:1\nI. 9:3:3:1\nJ. 9:3:4:2",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "74f550adf997493387d45cb440a9216d",
+        "query": "There is a type of pumpkin that weighs an average of 2.5 kg, and another variety that weighs an average of 1 kg. The hybrid offspring (F1) of these two varieties have an average weight of 1.75 kg. When F1 are crossbred, they produce 200 F2, with weights ranging from 1 to 2.5 kg. Among them, approximately 3 weigh around 2.5 kg, and another 3 weigh around 1 kg. How many pairs of genes control the weight of these two types of pumpkins?\n\nAnswer Choices:\nA. 10\nB. 5\nC. 8\nD. 4\nE. 9\nF. 1\nG. 7\nH. 2\nI. 6\nJ. 3",
+        "gt": "J",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7d6ad8c52f0f4cc1a24f51744eb9190c",
+        "query": "A married couple had a son (named \"OK\"), and little \"OK\" not only is colorblind, but also has an extra sex chromosome compared to other boys: XY. Medical examinations show that \"OK\"'s parents have normal vision and no hereditary or other diseases. How did little \"OK\" acquire this genetic condition?\n\nAnswer Choices:\nA. The problem lies with the \"OK\" father. During the second meiotic division of spermatocytes, the XX chromosomes failed to separate and instead both entered the same daughter cell.\nB. The problem lies with the \"OK\" father. During the first meiotic division of spermatogonia, the XX chromosomes failed to separate and both entered the same daughter cell.\nC. The issue lies with the \"OK\" mother. During the second meiotic division of the oocyte, the X and Y chromosomes failed to separate and entered the same daughter cell together.\nD. The issue lies with the \"OK\" mother. During the second meiotic division of the oocyte, the XX chromosomes failed to separate and both ended up in the same daughter cell.\nE. The problem lies with the \"OK\" mother. During the normal division of the oocyte, the YY chromosomes simultaneously enter the same daughter cell.\nF. The issue lies with the \"OK\" father. During the second meiotic division of spermatocytes, the XY chromosomes did not separate and directly entered the same daughter cell.\nG. The problem lies with the \"OK\" father. During the first meiotic division of the primary spermatocyte, the X and Y chromosomes failed to separate and directly entered the same daughter cell.\nH. The issue lies with the \"OK\" father. During normal spermatocyte division, the X and Y chromosomes simultaneously enter the same daughter cell.\nI. The issue lies with the \"OK\" mother. During the first meiotic division of the oocyte, the XY chromosomes failed to separate and entered the same daughter cell together.\nJ. The issue lies with the \"OK\" mother. During the first meiotic division of the oocyte, the XX chromosomes failed to separate and directly entered the same daughter cell.",
+        "gt": "D",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "81072bae4f174023a25762b8b0d36e06",
+        "query": "There are three species of fruit doves that all feed on the fruits of a certain plant, but they consume fruits from different parts of the plant. What is the most reasonable explanation for this phenomenon?\n\nAnswer Choices:\nA. Dietary Convergence\nB. Habitat differentiation\nC. Symbiotic Cooperation\nD. Competitive Exclusion\nE. Habitat Specialization\nF. Niche Differentiation\nG. Foraging Coexistence\nH. Mutual Interference and Competition\nI. Food Differentiation\nJ. Resource Partitioning",
+        "gt": "F",
+        "category": "Biology/Ecology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "d0640335f40c4d24b5df05beab258022",
+        "query": "Brown eyes (B) are dominant over blue eyes (b), and right-handedness (R) is dominant over left-handedness (r). A brown-eyed, right-handed man marries a blue-eyed, right-handed woman, and their first child has blue eyes and is left-handed. If this couple has another child, what are the possible phenotypes and their likely ratios?\n\nAnswer Choices:\nA. Blue-eyed right dominance: Brown-eyed left dominance: Brown-eyed right dominance: Blue-eyed left dominance = 2:1:3:3\nB. Blue-eyed left dominance: Brown-eyed left dominance: Blue-eyed right dominance: Brown-eyed right dominance = 1:1:2:3\nC. Brown-eyed right dominance: Blue-eyed right dominance: Brown-eyed left dominance: Blue-eyed left dominance = 3:3:1:1\nD. Brown-eyed left dominance: Blue-eyed right dominance: Brown-eyed right dominance: Blue-eyed left dominance = 3:2:3:1\nE. Brown-eyed right dominance: Blue-eyed right dominance: Brown-eyed left dominance: Blue-eyed left dominance = 3:2:3:2\nF. Brown-eyed left dominance: Blue-eyed left dominance: Brown-eyed right dominance: Blue-eyed right dominance = 6:2:3:3\nG. Brown-eyed right dominance: Brown-eyed left dominance: Blue-eyed right dominance: Blue-eyed left dominance = 3:1:3:1\nH. Blue-eyed left dominance: Brown-eyed right dominance: Blue-eyed right dominance: Brown-eyed left dominance = 1:2:3:3\nI. Blue-eyed right dominance: Blue-eyed left dominance: Brown-eyed right dominance: Brown-eyed left dominance = 3:1:3:2\nJ. Blue-eyed right dominance: Brown-eyed right dominance: Blue-eyed left dominance: Brown-eyed left dominance = 2:3:3:1",
+        "gt": "C",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2237d9be5cf5416b8b378f63fc5737cf",
+        "query": "A woman with albinism (whose father is red-green colorblind) marries a man with normal vision (whose father also has albinism). What is the likelihood that their child will have typical characteristics?\n\nAnswer Choices:\nA. 1/3\nB. 3/8\nC. 7/16\nD. 3/4\nE. 1/8\nF. 5/8\nG. 1/2\nH. 1/16\nI. 7/8\nJ. 1/4",
+        "gt": "B",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "f7452fa83fca480db969c6762ef902df",
+        "query": "In corn, the allele **b** results in a white endosperm color, while **b⁺** corresponds to the wild-type purple color. Another gene, **w** (*waxy*), leads to waxy endosperm, while **wx⁺** represents the wild-type starchy phenotype. A third gene, **cn**, causes pink-colored cotyledons, whereas **cn⁺** represents the wild-type yellow cotyledons. Female heterozygotes of these three genes were test-crossed, yielding 1,000 progeny with the following phenotypes and their respective counts: 5 wild-type; 6 with white, waxy endosperm and pink cotyledons; 69 with waxy endosperm and pink cotyledons; 67 with white endosperm; 382 with pink cotyledons; 379 with white, waxy endosperm; 48 with waxy endosperm; and 44 with white and pink cotyledons. In the progeny phenotypes, unless otherwise indicated, all traits are in their wild-type form.\nWhat is the genetic distance between **wx** and **cn**?\n\nAnswer Choices:\nA. 10.3\nB. 13.6\nC. 22.8\nD. 11.5\nE. 20.1\nF. 17.4\nG. 9.2\nH. 14.7\nI. 15.2\nJ. 8.9",
+        "gt": "H",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "defad856e7824b819109aa1451da723f",
+        "query": "What is the molecular mechanism of the Hb β-chain mutation that causes sickle cell anemia?\n\nAnswer Choices:\nA. Transcription Termination\nB. Synonymous mutation\nC. Amino Acid Deletion\nD. Base substitution\nE. Base insertion\nF. Base deletion\nG. Protein Misfolding\nH. Nonsynonymous mutation\nI. Point Mutation\nJ. Ribosome Inactivation",
+        "gt": "D",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "24ce9a62c5554555ae04e92a76161edf",
+        "query": "How many moles of ATP can be produced by the complete oxidation of 1 mol of stearic acid?\n\nAnswer Choices:\nA. 125\nB. 120\nC. 180\nD. 105\nE. 150\nF. 160\nG. 98\nH. 110\nI. 130\nJ. 140",
+        "gt": "B",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2e1c92e7640f46f3b19e4cb2b87f6e6a",
+        "query": "In maize, the allele *b* causes the endosperm color of the kernel to be white, while *b+* represents the wild-type purple. Another gene, *w* (*waxy*), results in waxy endosperm, whereas *wx+* is the wild-type starchy endosperm. A third gene, *cn*, causes the cotyledon to be pink, while *cnt* is the wild-type yellow cotyledon. These three gene heterozygotes underwent a test cross with a female, resulting in 1000 kernels with the following phenotypes and numbers:\n- 5 wild-type,\n- 6 with white, waxy endosperm and pink cotyledons,\n- 69 with waxy endosperm and pink cotyledons,\n- 67 with white endosperm,\n- 382 with pink cotyledons,\n- 379 with white, waxy endosperm,\n- 48 with waxy endosperm,\n- 44 with white, pink cotyledons.\nIn the offspring phenotypes, unless otherwise mentioned, all are wild-type.\nWhat is the map distance between the *b* and *cn* genes?\n\nAnswer Choices:\nA. 22.8\nB. 20.5\nC. 15.2\nD. 9.2\nE. 12.7\nF. 8.9\nG. 10.3\nH. 11.1\nI. 14.7\nJ. 13.6",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "c348732982bb4dbc911754b6949ac4ee",
+        "query": "There is a tetrapeptide that, after hydrolysis by chymotrypsin, produces a dipeptide (Ser-Arg) and two Phe (Ser-serine, Arg-arginine, Phe-phenylalanine). What is the sequence of this tetrapeptide?\n\nAnswer Choices:\nA. Phe-Phe-Ser-Arg\nB. Ser-Arg-Phe-Phe\nC. Phe-Ser-Arg-Phe\nD. Phe-Arg-Ser-Phe\nE. Ser-Phe-Phe-Arg\nF. Ser-Phe-Arg-Phe\nG. Phe-Ser-Phe-Arg\nH. Arg-Ser-Phe-Phe\nI. Arg-Phe-Phe-Ser\nJ. None of the above answers are correct.",
+        "gt": "B",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "929cbd9e50d94b17ba5024919e4c2ae5",
+        "query": "Flower length varies between two strains of a certain plant. This is due to a specific number ofpolygenes. Using the data given below, find approximately how many genes are in the series. Group Mean (X) Variance (s^2) Cause of variation Strain A 21 mm 1.43 mm^2 Environment Strain B 39 1.16 Environment F_1 (A × B) 30 1.80 Environment F_2 (F_1 × F_1) 30 5.10 Genes, environment\n\nAnswer Choices:\nA. 20 gene pairs\nB. 10 gene pairs\nC. 8 gene pairs\nD. 18 gene pairs\nE. 15 gene pairs\nF. 25 gene pairs\nG. 5 gene pairs\nH. 7 gene pairs\nI. 12 gene pairs\nJ. 14 gene pairs",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "36670be998ac4cd9b9bad27b865eb615",
+        "query": "The human heart discharge 75 cc of blood through the arteries at each beat against an average pressure of 10 cm of mercury.Assuming that the pulse frequency is 72 per minute,the rate of working of heart in watt is (Density of mercury = $13.6 gm/cc$ and $g = 9.8 m/s^2$)\n\nAnswer Choices:\nA. 11.9 W\nB. 119 W\nC. 119.1 W\nD. 1.91 W\nE. 1.19 W\nF. 19.1 W\nG. 111.9 W\nH. 0.119 W\nI. 11.19 W\nJ. 19.9 W",
+        "gt": "A",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "01b7b718643d45b9b9c52579ef0fbc71",
+        "query": "The pressure flow hypothesis provides a good explanation of the mechanism of assimilate transport in the phloem. Based on the content of the pressure flow hypothesis, can you deduce the relative magnitudes of water potential, osmotic potential, and pressure potential at the source and sink ends of the phloem?\n\nAnswer Choices:\nA. Ψw, source = Ψw, reservoir; Ψs, source < Ψs, reservoir; Ψp, source = Ψp, reservoir\nB. Ψw, source < Ψw, reservoir; Ψs, source < Ψs, reservoir; Ψp, source > Ψp, reservoir\nC. Ψw, source > Ψw, sink; Ψs, source < Ψs, sink; Ψp, source < Ψp, sink\nD. Ψw, source < Ψw, sink; Ψs, source > Ψs, sink; Ψp, source < Ψp, sink\nE. Ψw, source = Ψw, reservoir; Ψs, source = Ψs, reservoir; Ψp, source < Ψp, reservoir\nF. Ψw, source > Ψw, sink; Ψs, source = Ψs, sink; Ψp, source = Ψp, sink\nG. Ψw, source > Ψw, sink; Ψs, source > Ψs, sink; Ψp, source > Ψp, sink\nH. Ψw, Source <Ψw, Reservoir; Ψs, Source>Ψs, Reservoir: Ψp, Source <Ψp, Reservoir\nI. Ψw, source = Ψw, sink; Ψs, source > Ψs, sink; Ψp, source > Ψp, sink\nJ. Ψw, source > Ψw, reservoir; Ψs, source < Ψs, reservoir; Ψp, source > type p, reservoir",
+        "gt": "B",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "10f2d485fbd04a8e8085f29eb6ebaaa2",
+        "query": "The thylacines, marsupial predators, marsupial gliders, numbat, marsupial moles, and wallabies of Australia are very similar in form and habits to wolves, leopards, flying squirrels, anteaters, moles, and rats of the Eurasian continent, apart from the difference of having pouches. What type of evolutionary pattern is this phenomenon a typical example of?\n\nAnswer Choices:\nA. Radiation Evolution\nB. Divergent Evolution\nC. Coevolution\nD. Parallel Evolution\nE. Convergent Evolution\nF. Parallel Speciation\nG. Adaptive Radiation\nH. Morphological Convergence",
+        "gt": "D",
+        "category": "Biology/Ecology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "a0c5026c020a406fb4ec8be972d27da4",
+        "query": "In a heavily polluted industrialized area in England about 87 percent of the moths of the speciesBistonbetulariaare melanic(dark colored). If the frequency of recessives is 0.13, what is the frequency of the dominant allele leading to melanism? What proportion of the dark colored moths are heterozygous?\n\nAnswer Choices:\nA. 0.80, 0.48 or 48%\nB. 0.64, 0.53 or 53%\nC. 0.47, 0.65 or 65%\nD. 0.77, 0.30 or 30%\nE. 0.60, 0.70 or 70%\nF. 0.75, 0.60 or 60%\nG. 0.50, 0.50 or 50%\nH. 0.70, 0.40 or 40%\nI. 0.87, 0.25 or 25%\nJ. 0.55, 0.75 or 75%",
+        "gt": "B",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "4fb7cb44815c45ca81e7238964706d6f",
+        "query": "A dihybrid plant with genotype PpNn. It produces four types of gametes in following number PN=200, pn=200, Pn=800, pN = 800 then what is the distance between linked genes?\n\nAnswer Choices:\nA. 15 cM\nB. 22 cM\nC. 10 cM\nD. 25 cM\nE. 30 cM\nF. 27 cM\nG. 14 cM\nH. 18 cM\nI. 20 cM\nJ. 28 cM",
+        "gt": "E",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "f0bb3853e211468d8b09a21b001c3909",
+        "query": "The sedimentation coefficient $S$ and diffusion coefficient $D$ of hemoglobin in water, corrected to the values ​​at $293 \\mathrm{~K}$, are $4.41 \\times 10^{-13} \\, \\mathrm{s}$ and $6.3 \\times 10^{-7} \\, \\mathrm{m^{2} \\cdot s^{-1}}$respectively. At $293 \\mathrm{~K}$, the specific volume is $0.749 \\times 10^{-3} \\, \\mathrm{m}^{3} \\cdot \\mathrm{kg}^{-1}$, and the density of water is $998 \\times 10^{3} \\, \\mathrm{kg} \\cdot \\mathrm{m}^{-3}$. Calculate the relative molecular weight of this hemoglobin?\n\nAnswer Choices:\nA. 6.02\nB. 8.33\nC. 9.17\nD. 5.42\nE. 4.95\nF. 6.75\nG. 7.12\nH. 5.84\nI. 4.51\nJ. 7.89",
+        "gt": "F",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "d7c0d79fd96442cf841ee4fa7eaf1153",
+        "query": "Calculate the molecular weight of a pure isoelectric protein if a 1% solution gives an osmotic pressure of 46 mm of H_2O at 0°C. Assume that it yields an ideal solution.\n\nAnswer Choices:\nA. 273 g/mole\nB. 5,030 g/mole\nC. 603 g/mole\nD. Both 50,300 g/mole and 50.3 kg/mole are correct\nE. 10 g/mole\nF. 50.3 kg/mole\nG. 150,000 g/mole\nH. 92,000 g/mole\nI. 46,000 g/mole\nJ. 50,300 g/mole",
+        "gt": "D",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "d735b8507f654bb19440357d19395199",
+        "query": "The unlabeled substrate exhibits competitive inhibition relative to the labeled substrate. This displacement phenomenon can be used in a solution known not to contain a true inhibitor to determine the unknown concentration of the substrate. For example, assume that 0.1 ml of a fraction containing unlabeled S is included in a 1.0 ml standard reaction volume, which contains $[ \\mathbf{S^{*}} ]=2.3 \\times 10^{-5} \\mathrm{mol}$ and enough $[ E ]_{t}$ to produce $V_{\\mathrm{max}} = 290 \\, \\mathrm{nmol/min}$. The observed initial velocity is 48,000 counts per minute. What is the concentration of unlabeled S in the fraction?\n\nAnswer Choices:\nA. $$ 1. 5 8 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$\nB. $$ 2. 4 9 \\times1 0^{-5} \\mathrm{m o l} / \\mathbf{L} $$\nC. $$ 2. 5 3 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$\nD. $$ 2. 8 4 \\times1 0^{-6} \\mathrm{m o l} / \\mathbf{L} $$\nE. $$ 3. 2 1 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$\nF. $$ 2. 9 0 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$\nG. $$\n1. 3 7 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L}\n$$\nH. $$ 1. 0 5 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$\nI. $$ 1. 9 6 \\times1 0^{-3} \\mathrm{m o l} / \\mathbf{L} $$\nJ. $$ 4. 7 8 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$",
+        "gt": "G",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "8f09ed9a7bfc429faf6e0ff6b84b43a0",
+        "query": "The $K_{m} \\!=\\! 2.9 \\times 10^{-4} M$ and $K_{i} \\!=\\! 2 \\times 10^{-5} M$ for a certain enzyme. When $\\left[ S \\right]= 1.5 \\times 10^{-3} M$, what concentration of a competitive inhibitor will result in 75% inhibition?\n\nAnswer Choices:\nA. $$\n9. 4 \\times 1 0^{-8} M\n$$\nB. $$\n8. 3 \\times 1 0^{-3} M\n$$\nC. $$\n3. 7 \\times1 0^{-4} M\n$$\nD. $$\n2. 6 \\times 1 0^{-5} M\n$$\nE. $$\n2. 1 \\times 1 0^{-4} M\n$$\nF. $$\n4. 5 \\times 1 0^{-5} M\n$$\nG. $$\n1. 5 \\times 1 0^{-7} M\n$$\nH. $$\n5. 9 \\times 1 0^{-3} M\n$$\nI. $$\n7. 2 \\times 1 0^{-6} M\n$$\nJ. $$\n6. 8 \\times 1 0^{-4} M\n$$",
+        "gt": "C",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "51320fbbcaf84690b72e1242f568ab81",
+        "query": "Glutamate Dehydrogenase Catalyzed Reaction:\nGlutamate $+ \\mathbf{NAD}^{+} + \\mathbf{H}_{2}O ⇄ \\alpha$-ketoglutarate $+ NADH$\n$$+ \\mathbf{NH}_{4}^{+} + \\mathbf{H}^{+}$$\nThe initial concentrations of glutamate and $NAD^{+}$ are $20 \\, \\text{mM}$ and $1 \\, \\text{mM}$ respectively. If the reaction takes place in a phosphate buffer at $pH 7$. The concentration of $NADH$ is measured by spectrophotometry. $A_{340 \\text{nm}}$ (in a absorption cup with a thickness of 1 cm) increases to 0.561. Calculate the equilibrium constant for the above reaction.\n\nAnswer Choices:\nA. $$\n9. 0 1 \\times1 0^{-9} \\; M\n$$\nB. $$\n4. 7 8 \\times1 0^{-5} \\; M\n$$\nC. $$\n8. 9 3 \\times1 0^{-7} \\; M\n$$\nD. $$\n1. 9 9 \\times1 0^{-1 2} \\; M\n$$\nE. $$\n7. 6 4 \\times1 0^{-1 1} \\; M\n$$\nF. $$\n2. 3 1 \\times1 0^{-1 4} \\; M\n$$\nG. $$\n6. 4 7 \\times1 0^{-8} \\; M\n$$\nH. $$\n3. 5 2 \\times1 0^{-6} \\; M\n$$\nI. $$\n4. 0 5 \\times1 0^{-1 5} \\; M\n$$\nJ. $$\n5. 8 7 \\times1 0^{-1 3} \\; M\n$$",
+        "gt": "I",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "a7b339deac0348aab7f398acd1d8b43a",
+        "query": "Determine the activity of $\\beta$-galactosidase in the cell-free extract of $Penicillium Chrysogeum$. The extract ($0.25ml$) is incubated with $3 \\times 10^{-3} M$ p-nitrophenyl-$\\beta$-galactoside and buffer, with a total volume of $1.0ml$. At regular intervals, remove $0.1 ml$ and add it to $2.9ml$ of $0.1N NaOH$ solution. The concentration of liberated p-nitrophenol can be determined by the absorbance at $400nm$, using a blank consisting of p-nitrophenyl-$\\beta$-galactoside in buffer plus $NaOH$. (The $\\epsilon_{m}$ value for p-nitrophenol in $0.1N NaOH$ is 18,300). The cell-free extract contains $5mg$ of protein per ml. In a $1cm$ path length cuvette, the absorbance of the NaOH solution is:\nIncubation Time (minutes) A400nm\n2 0.09\n4 0.18\n6 0.27\nCalculate the specific activity of $\\beta$-galactosidase in the cell-free extract.\n\nAnswer Choices:\nA. 0. 1 0 2 units / mg protein\nB. 0.067 units/mg protein\nC. 0. 1 5 9 units/mg protein\nD. 0.059 units/mg protein\nE. 0. 0 2 8 units / mg protein\nF. 0.094 units/mg protein\nG. 0.041 units/mg protein\nH. 0. 1 2 3 units / mg protein\nI. 0. 0 3 6 units / mg protein\nJ. 0. 0.084 units/mg protein",
+        "gt": "D",
+        "category": "Biology/Microbiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "0894e323b2f54ec6a186f6735a91cc06",
+        "query": "In cell cycle regulation, how is the inhibitory effect of CKI on S-Cdk relieved to promote the transition from G1 to S phase?\n\nAnswer Choices:\nA. By the increase of S phase factors in the cytoplasm, CKI can no longer exert inhibition\nB. By the stabilization of the Cyclin C complex, CKI is inactivated, releasing S-Cdk activity\nC. By the attachment of Cyclin D, CKI becomes inactive, permitting S-Cdk functionality\nD. By the accumulation of mitotic promotors, CKI ceases to block S-Cdk\nE. By the synthesis of additional CKI proteins, S-Cdk is prematurely activated\nF. By the degradation of the SCF complex, CKI is inactivated, releasing S-Cdk activity\nG. By the decrease of nuclear membrane permeability, CKI loses its inhibitory role\nH. By the activation of Cyclin E, CKI automatically dissociates, allowing the cell to enter S phase\nI. By phosphorylating CKI, it binds to Cyclin A, preventing S-Cdk activation\nJ. By the aggregation of phosphorylated enzymes, CKI loses its activity, releasing S-Cdk function",
+        "gt": "F",
+        "category": "Biology/Cell Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "b9e2615668f8451a85bc43a9a85c4a7c",
+        "query": "A plant grows in an atmosphere containing $\\mathrm{^{14}C O_{2} ~ ( 3 \\times~ 10^8 }$ counts per minute $/ \\mu$ mol). Several weeks later, leaf extracts were prepared to determine glucose-1-phosphate using the isotope dilution method. To the 20 ml extract, 1.5 mmol of unlabeled glucose-1-phosphate dipotassium was added. A small amount of glucose-1-phosphate dipotassium was repeatedly isolated from the extract and recrystallized with an ethanol-water solution to a constant specific radioactivity. The specific radioactivity of the recrystallized salt is $2.6 \\times 10^{5}$ counts per minute $/ \\mu \\mathrm{mol}$. Calculate the concentration of labeled glucose-1-phosphate in the extract is.\n\nAnswer Choices:\nA. $$\n6. 3 9 2 \\times1 0^{-5} \\mathrm{m o l}\n$$\nB. $$\n5. 4 7 6 \\times1 0^{-5} \\mathrm{m o l}\n$$\nC. $$\n3. 5 3 8 \\times1 0^{-5} \\mathrm{m o l}\n$$\nD. $$\n1. 0 8 4 \\times1 0^{-5} \\mathrm{m o l}\n$$\nE. $$\n4. 0 6 7 \\times1 0^{-5} \\mathrm{m o l}\n$$\nF. $$\n0. 9 4 8 \\times1 0^{-5} \\mathrm{m o l}\n$$\nG. $$\n9. 2 5 1 \\times1 0^{-5} \\mathrm{m o l}\n$$\nH. $$\n2. 7 8 5 \\times1 0^{-5} \\mathrm{m o l}\n$$\nI. $$\n7. 1 2 9 \\times1 0^{-5} \\mathrm{m o l}\n$$\nJ. $$\n8. 0 3 1 \\times1 0^{-5} \\mathrm{m o l}\n$$",
+        "gt": "D",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "6ebc54a91dd54017b802b83a86be8e0d",
+        "query": "After n generations in a 14N culture medium, how many double-stranded DNA molecules contain only 14N, if a double-stranded DNA fragment was initially labeled with 15N isotope?\n\nAnswer Choices:\nA. 2^(n-1)-1\nB. 2^n+2\nC. 2^(n-1)\nD. 2^n-1\nE. 2^n-2\nF. 2^n+1\nG. 2^(n-1)-2\nH. 2^(n-2)\nI. 2^n-3\nJ. 2^n",
+        "gt": "E",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "890117a942344f0cb306a9723181b888",
+        "query": "When a plant's genotype is aab6, the height of the plant is 40 cm, and when the genotype is AABB, the height is 60 cm. Assume that each dominant allele contributes additively to the height. In the F2 generation produced by self-crossing of F1, what proportion of the plants have a height of 50 cm?\n\nAnswer Choices:\nA. 3/16\nB. 4/16\nC. 6/16\nD. 2/16\nE. 12/16\nF. 5/16\nG. 7/16\nH. 9/16\nI. 10/16\nJ. 8/16",
+        "gt": "C",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2d4a9d08f5434679a349caa914d5dfdd",
+        "query": "The color of the seed coat in wheat is determined by multiple copy genes. The more dominant alleles (R), the redder the seed coat; the more recessive alleles (r), the whiter the seed coat. When true-breeding red-seed-coat wheat is crossed with true-breeding white-seed-coat wheat, the ratio of red seed coat to white seed coat in the F2 generation is 63:1. How many R gene loci segregate in this cross?\n\nAnswer Choices:\nA. 5 copies\nB. 2 copies\nC. 4 copies\nD. 5 genes\nE. 5 units\nF. 2 loci\nG. 3 units\nH. 4 units\nI. 6 loci\nJ. 2 units",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "c01c2e2bd2024083b67ef3a85c6c7174",
+        "query": "The concentration of phosphorylase in the cell-free extract of Escherichia coli is 0.08 units/$ml$, with a specific activity of 0.0033 units/mg protein. A 50 ml portion of this solution is fractionated using ammonium sulfate precipitation, and the precipitate at 30%-50% saturation is dissolved in $10 ml$ of solution and dialyzed, resulting in a post-dialysis volume of $12 ml$, containing $30 mg$ of protein per ml. A $20 \\ \\mu l$ sample of the partially purified enzyme solution is used to catalyze a reaction under standard experimental conditions, with a reaction rate of 5.9 nM/min. Calculation: enzyme recovery rate is().\n\nAnswer Choices:\nA. $$75.2\\%$$\nB. $$89.9\\%$$\nC. $$85.0\\%$$\nD. $$77.8\\%$$\nE. $$92.3\\%$$\nF. $$79.5\\%$$\nG. $$80.4\\%$$\nH. $$83.1\\%$$\nI. $$91.7\\%$$\nJ. $$88.5\\%$$",
+        "gt": "J",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "c4989fc378654551b8ef93ad99fcf5bb",
+        "query": "In corn, the number of double recessive types among the offspring of the AB/ab × AB/ab cross accounts for 16% of all progeny. What is the genetic map distance between these two genes?\n\nAnswer Choices:\nA. 50\nB. 45\nC. 30\nD. 10\nE. 15\nF. 20\nG. 35\nH. 40\nI. 60\nJ. 25",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7e602f9f980b4034bc8d3fad8b8e48ed",
+        "query": "In snapdragons, red flowers (R) are incompletely dominant over white flowers (r), and the heterozygous plants have pink flowers. Broad leaves (B) are incompletely dominant over narrow leaves (b), and the heterozygous plant leaves are intermediate in width. What are the phenotypes and their ratios in the F1 and F2 generations from a cross between red-flowered, broad-leaved plants and white-flowered, narrow-leaved plants?\n\nAnswer Choices:\nA. F1 100% pink flower with broad leaves\nF21/16 red flower with intermediate leaves, 2/16 red flower with narrow leaves, 2/16 pink flower with narrow leaves, 4/16 pink flower with broad leaves, 1/16 white flower with narrow leaves, 2/16 white flower with intermediate leaves, 1/16 red flower with broad leaves, 2/16 pink flower with intermediate leaves, 1/16 white flower with broad leaves.\nB. F1 100% pink flower with broad leaves\nF21/16 red flower with narrow leaves, 2/16 red flower with broad leaves, 2/16 pink flower with broad leaves, 4/16 pink flower with narrow leaves, 1/16 white flower with intermediate leaves, 2/16 white flower with broad leaves, 1/16 red flower with intermediate leaves, 2/16 pink flower with intermediate leaves, 1/16 white flower with narrow leaves.\nC. F1 100% pink flower with broad leaves\nF21/16 red flower with intermediate leaves, 2/16 red flower with broad leaves, 2/16 pink flower with narrow leaves, 4/16 pink flower with broad leaves, 1/16 white flower with narrow leaves, 2/16 white flower with broad leaves, 1/16 red flower with narrow leaves, 2/16 pink flower with intermediate leaves, 1/16 white flower with intermediate leaves.\nD. F1 100% pink flower with broad leaves\nF21/16 red flower with broad leaves, 2/16 red flower with narrow leaves, 2/16 pink flower with broad leaves, 4/16 pink flower with narrow leaves, 1/16 white flower with broad leaves, 2/16 white flower with narrow leaves, 1/16 red flower with intermediate leaves, 2/16 pink flower with intermediate leaves, 1/16 white flower with intermediate leaves.\nE. F1 100% pink flower with intermediate leaves\nF21/16 red flower with intermediate leaves, 2/16 red flower with broad leaves, 2/16 pink flower with narrow leaves, 4/16 pink flower with intermediate leaves, 1/16 white flower with intermediate leaves, 2/16 white flower with narrow leaves, 1/16 red flower with broad leaves, 2/16 pink flower with broad leaves, 1/16 white flower with broad leaves.\nF. F1 100% pink flower with intermediate leaves\nF21/16 red flower with broad leaves, 2/16 red flower with intermediate leaves, 2/16 pink flower with broad leaves, 4/16 pink flower with intermediate leaves, 1/16 white flower with broad leaves, 2/16 white flower with intermediate leaves, 1/16 red flower with leaves, 2/16 pink flower with narrow leaves, 1/16 white flower with narrow leaves.\nG. F1 100% pink flower with narrow leaves\nF21/16 red flower with narrow leaves, 2/16 red flower with intermediate leaves, 2/16 pink flower with broad leaves, 4/16 pink flower with narrow leaves, 1/16 white flower with broad leaves, 2/16 white flower with narrow leaves, 1/16 red flower with broad leaves, 2/16 pink flower with intermediate leaves, 1/16 white flower with intermediate leaves.\nH. F1 100% pink flower with narrow leaves\nF21/16 red flower with broad leaves, 2/16 red flower with narrow leaves, 2/16 pink flower with narrow leaves, 4/16 pink flower with intermediate leaves, 1/16 white flower with intermediate leaves, 2/16 white flower with broad leaves, 1/16 red flower with intermediate leaves, 2/16 pink flower with broad leaves, 1/16 white flower with broad leaves.\nI. F1 100% pink flower with intermediate leaves\nF21/16 red flower with broad leaves, 2/16 red flower with narrow leaves, 2/16 pink flower with narrow leaves, 4/16 pink flower with broad leaves, 1/16 white flower with intermediate leaves, 2/16 white flower with narrow leaves, 1/16 red flower with intermediate leaves, 2/16 pink flower with intermediate leaves, 1/16 white flower with broad leaves.\nJ. F1 100% pink flower with intermediate leaves\nF21/16 red flower with narrow leaves, 2/16 red flower with intermediate leaves, 2/16 pink flower with broad leaves, 4/16 pink flower with narrow leaves, 1/16 white flower with narrow leaves, 2/16 white flower with intermediate leaves, 1/16 red flower with broad leaves, 2/16 pink flower with broad leaves, 1/16 white flower with broad leaves.",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "9ac0b4c0778d4934a50545eb41bb3a99",
+        "query": "Wild-type haploid Neurospora can synthesize tryptophan on its own, but the mutant allele \\(td\\) causes it to lose this function. Mutants with the genotype \\(id\\) require the addition of tryptophan to the medium in order to grow. This phenotype is suppressed by the allele \\(su\\), so strains carrying both the \\(su\\) and \\(id\\) mutant genes are no longer dependent on tryptophan. The alleles \\(su\\) and \\(td\\) are independently assorted. What is the ratio of tryptophan-dependent to non-dependent types in the progeny of the above cross?\n\nAnswer Choices:\nA. 3:1\nB. 1:1\nC. 2:1\nD. 1:3\nE. 3:2\nF. 0:4\nG. 2:2\nH. 0:3\nI. 4:1\nJ. 1:2",
+        "gt": "D",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7ac2211422e24e8da37eee5c3a4c1f7c",
+        "query": "The recessive genes a, b, and c in fruit flies are sex-linked. The F1 generation produced by crossing two parents is a+b+c+ and abc. When these two F1 individuals (abc Y) are crossed, what is the correct outcome?\n\nAnswer Choices:\nA. The mating value can be determined solely based on the female fruit flies in F2.\nB. The exchange value cannot be estimated based on the resulting F2.\nC. The exchange value cannot be determined solely based on the female fruit flies in F2.\nD. Alleles *a* and *c* in the male F1 are in a cis configuration.\nE. The exchange value can be estimated based on all the offspring produced.\nF. Alleles *a* and *b* in the female F1 are in a trans configuration.\nG. The alleles *b* and *c* in the female F1 are in a trans configuration.\nH. The mating value cannot be determined based on any of the F2 offspring.\nI. The mating value can be determined solely based on the male fruit flies in F2.\nJ. The exchange value can be estimated solely based on the male fruit flies in F1.",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "cff5a6adefff4439b484c67e0dab0548",
+        "query": "The recombination rate between the two linked genes wz (waxy) and sh (shrunken) located on chromosome 9 of maize is 36%. What is the probability of at least one crossover occurring between these two genes in cells undergoing meiosis?\n\nAnswer Choices:\nA. 0.78\nB. 0.58\nC. 0.66\nD. 0.68\nE. 0.82\nF. 0.54\nG. 0.74\nH. 0.64\nI. 0.72\nJ. 0.70",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2ced4b4da0c44003b4a396f088d2c15e",
+        "query": "If the concentrations of ADP and Pi inside the cell are $3mM$ and $1mM$ respectively, and the standard free energy change for ATP hydrolysis is $\\Delta G^{\\circ}=-7.3 \\mathrm{kcal} \\cdot \\mathrm{mol}^{-1}$, try to calculate the concentration of ATP at equilibrium (temperature is 37°C). However, under these conditions, if the concentration of ATP is $10mM$, what would be the $\\Delta G_{T\\cdot P}$ of the reaction $\\mathbf{ATP} \\rightarrow \\mathbf{ADP} + \\mathbf{Pi}$?\n\nAnswer Choices:\nA. $$\n- 5 1. 2 9 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nB. $$\n- 5 3. 6 6 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nC. $$\n- 4 9. 8 5 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nD. $$\n- 4 2. 1 0 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nE. $$\n- 6 2. 3 4 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nF. $$\n- 5 5. 4 0 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nG. $$\n- 5 8. 7 8 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nH. $$\n- 6 0. 1 9 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nI. $$\n- 5 0. 9 4 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$\nJ. $$\n- 4 7. 3 2 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$",
+        "gt": "A",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "d7755a021c1e490489c333e917b923c1",
+        "query": "The feather color in a type of parrot is controlled by two pairs of non-allelic genes. The dominant allele Y guides the production of yellow pigment, while the dominant allele B guides the production of blue pigment. When yellow and blue pigments coexist, the feathers appear green; in the absence of pigment, the feathers appear white. A green parrot is crossed with a yellow parrot, and the phenotypic ratio of the offspring is 12 green: 4 blue: 13 yellow: 3 white. What are the genotypes of these two parrots?\n\nAnswer Choices:\nA. YyBb and YyBb\nB. Yybb and yyBB\nC. Yybb and YyBB\nD. YyBb and yyBb\nE. YyBB and yybb\nF. YyBb and YyBB\nG. YyBb and Yybb\nH. YyBb and YYBb\nI. YYBB and YyBb",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "07d59df183f445d4b811f1d01d347c66",
+        "query": "Under the condition of 20°C, cells undergoing initial plasmolysis (Ψs = -0.732 MPa) are placed into 0.1 mol/L sucrose solution and 0.1 mol/L NaCl solution, respectively. When the movement of water in and out of the cells reaches dynamic equilibrium, the cell pressure potential (Ψp) is measured using a cell pressure probe. Which of the following results is reasonable? (Hint: Gas constant R = 0.0083 L·MPa·mol⁻¹·K⁻¹)\n\nAnswer Choices:\nA. Ψp, sucrose < 0 MPa, Ψp, NaCl > 0 MPa\nB. Ψp, sucrose = Ψp, NaCl = 0 MPa\nC. Ψp, sucrose > 0 MPa, Ψp, NaCl < 0 MPa\nD. Ψp, sucrose = 0 MPa, Ψp, NaCl = 0 MPa\nE. Ψp, sucrose = 0 MPa, Ψp, NaCl < 0 MPa\nF. Ψp, sucrose = Ψp, NaCl\nG. Ψp, sucrose < 0 MPa, Ψp, NaCl < 0 MPa\nH. Ψp, sucrose > Ψp, NaCl\nI. Ψp, sucrose < Ψp, NaCl\nJ. Unable to determine",
+        "gt": "H",
+        "category": "Biology/Physiology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "ffd4385217114a8986abc032219c1827",
+        "query": "The two types of wheat mature in 14 days and 28 days respectively. After they are crossbred, the F1 generation is obtained, and through self-pollination of F1, 6,200,000 F2 plants are produced. Among these, 100 plants mature within 14 days (including 14 days). How many genes are involved in controlling the maturation time of wheat?\n\nAnswer Choices:\nA. 12\nB. 9\nC. 5\nD. 3\nE. 10\nF. 11\nG. 6\nH. 7\nI. 8\nJ. 4",
+        "gt": "I",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "2a9dd54b47114edb86bf8434297153ea",
+        "query": "What is the basic process of auditory information conversion and transmission?\n\nAnswer Choices:\nA. The linked reaction of auditory impulses flows from the ossicular chain to the oval window, proceeding to the cochlear duct.\nB. Auditory information is carried via vibration radiating from the tympanic barrier to the cerebral cortex without intermediary conversion.\nC. The process involves transmitting auditory frequencies directly into cerebral compression through the tympanic medium.\nD. The flow of auditory senses is channeled via auditory canal leading to the gradual interpreation through cerebral abilities in receptor neurons.\nE. Vibration transitions of auditory impulses proceed from the auditory nerve to the tympanic membrane, then to cochlear nerve conduits.\nF. The waves of sound information pass through the auditory nerve directly impacting the cerebral sectors responsible for hearing interpretation.\nG. Auditory signals transverse the vestibular canal, transferring through intermediate fluid retention towards final auditory processing.\nH. Acoustic signals are converted to electrical impulses in the ear and sent to the brain for auditory recognition.\nI. Sound waves enter the ear and are detected by tiny hairs which send signals directly to auditory cortex.\nJ. The vibration energy of sound signal is transmitted through the stapedial sole-ovular window through the epymphatic and then to the whole auriculare cochlear system. The vibration is propagated from the base to the top along the basement membrane in a travelling wave mode.",
+        "gt": "J",
+        "category": "Biology/Biophysics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "e8c5da5ca40647158b0c91dd695c6243",
+        "query": "The $\\mathrm{p} K_{a}^{\\prime}$ values for aquatic mammals $HHbO_{2}$ and $HHb$ are 6.62 and 8.18, respectively. Calculate the number of moles of $\\mathrm{H}^{+}$ that hemoglobin binds when releasing one mole of oxygen at $\\mathrm{pH} 7.4$?\n\nAnswer Choices:\nA. $$\n0. 9 5 2 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nB. $$\n0. 5 9 8 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nC. $$\n0. 6 2 3 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nD. $$\n0. 8 1 5 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nE. $$\n0. 4 1 6 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nF. $$\n0. 7 1 6 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nG. $$\n1. 3 4 9 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nH. $$\n1. 0 2 4 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nI. $$\n0. 9 1 1 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$\nJ. $$\n0. 5 8 7 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$",
+        "gt": "F",
+        "category": "Biology/Biochemistry and Molecular Biology",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "782256b649b24f5087f216f911c433c9",
+        "query": "A cross between two yellow-haired mice results in an F_1 ratio of: 2 yellow: 1nonyellow: 1 yellow (dies). Diagram a cross to explainthese results. P_1: yellow × yellow Y^ly^L Y^ly^L G_1: (1/2)Y^l, (1/2)y^L (1/2)Y^l, (1/2)y^L F_1: (1/4)Y^lY^l (1/2)Y^ly^L (1/4)y^Ly^L dies yellow nonyellow\n\nAnswer Choices:\nA. The surviving yellow mice can be represented genotypically Y^lY^l and the nonyellow mice can be represented as Y^Ly^L.\nB. The surviving yellow mice can be represented genotypically y^ly^l and the nonyellow mice can be represented as Y^lY^l.\nC. The surviving yellow mice can be represented genotypically Y^Ly^L and the nonyellow mice can be represented as Y^ly^L.\nD. The surviving yellow mice can be represented genotypically y^Ly^L and the nonyellow mice can be represented as Y^ly^L.\nE. The surviving yellow mice can be represented genotypically Y^lY^l and the nonyellow mice can be represented as y^Ly^L.\nF. The surviving yellow mice can be represented genotypically y^Ly^L and the nonyellow mice can be represented as Y^Ly^L.\nG. The surviving yellow mice can be represented genotypically y^Ly^L and the nonyellow mice can be represented as Y^lY^l.\nH. The surviving yellow mice can be represented genotypically Y^ly^L and the nonyellow mice can be represented as Y^Ly^L.\nI. The surviving yellow mice can be represented genotypically Y^LY^L and the nonyellow mice can be represented as Y^lY^l.\nJ. The surviving yellow mice can be represented genotypically Y^ly^L and the nonyellow mice can be represented as y^Ly^L.",
+        "gt": "J",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "e2d2bf38278d4b4c83860c3751127827",
+        "query": "If the insect is a fruit fly, and a male fruit fly with a genotype identical to the aforementioned parental female individual mates with a triple-recessive female fruit fly, what traits will be exhibited in their offspring?\n\nAnswer Choices:\nA. There are only two phenotypes: blackbody and tattoo with one glass eye.\nB. There are still six phenotypes, but in unequal ratios.\nC. There are only two phenotypes: tattoos and a glass eye in bold.\nD. There are still six phenotypes, with similar proportions.\nE. There are only two phenotypes, each equally represented.\nF. There are only three phenotypes, distributed equally.\nG. There are still six phenotypes, but the proportions vary.\nH. There are still four phenotypes, but with altered proportions.\nI. There are only six traits, and the ratios remain unchanged.\nJ. There are still six genotypes, but the phenotypes shift.",
+        "gt": "G",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "7d90b9f640f7431bb7b00bde85e0a18e",
+        "query": "A phenotypically normal couple has a son who is both albino and colorblind. Predict the probability of them having another abnormal offspring.\n\nAnswer Choices:\nA. 1/4\nB. 7/16\nC. 3/4\nD. 15/16\nE. 3/8\nF. 5/8\nG. 3/16\nH. 1/16\nI. 5/16\nJ. 1/2",
+        "gt": "B",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "4f5215482ab34942a529efd1c2d69c11",
+        "query": "The absence of horns trait D is dominant over the presence of horns trait d, and the heterozygous combination of red hair R and white hair r results in chestnut color. If a homozygous hornless white cow mates with a horned red bull, how will the offspring of the F1 generation mating with the horned red bull parent appear in terms of traits and proportions?\n\nAnswer Choices:\nA. Horned red : horned white : polled chestnut : horned chestnut = 1:1:1:1\nB. Horned white : horned chestnut : polled red : polled chestnut = 1:1:1:1\nC. Horned red : polled chestnut : horned white : polled red = 1:1:1:1\nD. Polled white : polled chestnut : horned red : horned white = 1:1:1:1\nE. Horned white : horned chestnut : polled chestnut : polled red = 1:1:1:1\nF. Horned red : polled white : polled chestnut : horned chestnut = 1:1:1:1\nG. Polled red : horned chestnut : polled white : horned red = 1:1:1:1\nH. Polled white : horned red : polled red : horned chestnut = 1:1:1:1\nI. Polled white : horned chestnut : polled red : horned white = 1:1:1:1\nJ. Polled red : polled chestnut : horned red : horned chestnut = 1:1:1:1",
+        "gt": "J",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "ef6f6e6dd0a646cfbe5505ca75bd716e",
+        "query": "In true-breeding Virginia tobacco, three dominant alleles respectively determine the shape ($M_0$), color ($C$), and size ($S$) of tobacco leaves. In Carolina tobacco, these three loci are all recessive homozygous. The three gene loci are located on the same chromosome, with $C$ in the center, the map distance between $M$ and $C$ being 6 map units ($\\mathrm{mu}$), and the map distance between $C$ and $S$ being 17 map units ($\\mathrm{mu}$). When the two types of tobacco are crossed, the $\\mathrm{F_1}$ generation is then backcrossed with Carolina tobacco. Among the offspring produced from the backcross, what proportion exhibits all three traits identical to Carolina tobacco?\n\nAnswer Choices:\nA. 28%\nB. 23%\nC. 27%\nD. 42%\nE. 33%\nF. 39%\nG. 36%\nH. 50%\nI. 30%\nJ. 25%",
+        "gt": "F",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "b71b61ea3ab14baca6aa1f402a0039af",
+        "query": "Inversion refers to a phenomenon where two breaks occur simultaneously on a chromosome, the intermediate segment rotates 180° and reconnects, resulting in the reversal of the gene sequence within this segment. During synapsis of homologous chromosomes, various scenarios may arise, including?\n\nAnswer Choices:\nA. When the inversion segment is large (including most of the chromosome), the inverted chromosome may pair in reverse orientation with the normal chromosome.\nB. When the inversion segment is large, the chromosomes may undergo continuous misalignment rather than forming visible loops.\nC. When the inversion segment is small, the homologous chromosome may fail completely to pair with the inverted chromosome during meiosis.\nD. When the inversion region is small, homologous chromosomes may preferentially pair within the inversion region.\nE. When the inversion region is moderately sized, both chromosomes pair perfectly without any structural disturbances during synapsis.\nF. As long as there is an inversion, a typical inversion loop will form during the pairing of homologous chromosomes in meiosis (with the inverted chromosomal segment looping over within the ring).\nG. When the inversion segment is too short, the homologous chromosomes pair randomly without following any typical inversion-related pattern.\nH. When the size of the inverted chromosome differs significantly from the normal chromosome, homologous pairing of the homologous regions occurs through the formation of an inversion loop.\nI. When the inversion occurs on non-homologous chromosomes, pairing will proceed normally in the absence of inversion loops.\nJ. When the inversion segment is very small (including an extremely short portion of the chromosome), the normal chromosome may pair with the inverted chromosome in a reversed orientation.",
+        "gt": "A",
+        "category": "Biology/Genetics",
+        "answer_type": "multipleChoice"
+    }
+]

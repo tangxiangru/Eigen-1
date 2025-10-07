@@ -1,0 +1,1206 @@
+[
+    {
+        "id": "trqa_lit_0",
+        "query": "Which cardiovascular complications are directly associated with FGF23 excess?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Atherosclerosis\nB: Left ventricular hypertrophy\nC: Atrial fibrillation\nD: Heart failure",
+        "gt": "BCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_1",
+        "query": "Which miRNA directly targets DNMT1 and reactivates tumor suppressor genes like KLF4 and E-cadherin in PDAC cells?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: miR-152\nB: miR-148a\nC: miR-377\nD: miR-17-92",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_2",
+        "query": "Which factors contribute to impaired nuclear translocation of GRα in secondary GCR?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased FKBP51 expression\nB: Reduced MUC1 levels\nC: Overexpression of PP2A\nD: Elevated HSP90 in the cytoplasm",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_3",
+        "query": "Which therapy reduces mast cell burden by targeting CD117?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Omalizumab\nB: Barzolvolimab\nC: Lirentelimab\nD: Cladribine",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_4",
+        "query": "Which genomic alterations are associated with hyperactivation of the CDK4/6 pathway in cancer?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: CCND1 amplification\nB: CDKN2A deletion\nC: CDK6 mutations\nD: RB1 amplification",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_5",
+        "query": "Which domain of PIK3CA is mutated most frequently in endometrial cancer compared to other cancers?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Kinase domain\nB: Helical domain\nC: Adaptor-binding domain (ABD)\nD: C2 domain",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_6",
+        "query": "What effects does AMD3100 have in preclinical fibrosis models?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Reduces collagen deposition\nB: Increases regulatory T cells\nC: Worsens hepatic necrosis\nD: Improves diastolic function",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_7",
+        "query": "Which malignancies are associated with IDH1 mutations? Select all that apply.\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Chondrosarcoma\nB: Melanoma\nC: Thyroid cancer\nD: Colorectal cancer",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_8",
+        "query": "Which of the following AR agonists are steroid-based?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Testosterone\nB: Dihydrotestosterone (DHT)\nC: Oxandrolone\nD: Methyl testosterone",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_9",
+        "query": "In which cellular compartment is hCD33m predominantly localized?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Cell surface\nB: Lysosomes\nC: Peroxisomes\nD: Nucleus",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_10",
+        "query": "Which PPAR agonist is currently in Phase III trials for NASH? [as of 2023]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Saroglitazar\nB: Lanifibranor\nC: Elafibranor",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_11",
+        "query": "Which DRD2 inhibitor is associated with bronchospasm risk?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Loxapine\nB: Haloperidol\nC: Olanzapine\nD: Risperidone",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_12",
+        "query": "Toxicities commonly associated with pan-PI3K inhibitors include: (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Hyperglycemia\nB: Pneumonitis\nC: Hypertension\nD: Rash",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_13",
+        "query": "What is the key metabolic pathway affected by TRPV1 modulation?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Glycolysis\nB: Purine metabolism\nC: Fatty acid oxidation\nD: Urea cycle",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_14",
+        "query": "Which of the following is a therapeutic vulnerability of IDH1-mutant cells?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: High NADPH levels\nB: Reduced NAD+ levels\nC: Enhanced DNA repair capacity\nD: Increased glutamine dependency",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_15",
+        "query": "Which cytokine's production is increased in EZH2-deficient Tregs?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: IL-10\nB: IFN-γ\nC: TGF-β\nD: IL-2",
+        "gt": "BD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_16",
+        "query": "In castration-resistant prostate cancer (CRPC), MAOA expression is upregulated by approximately?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: 2-fold\nB: 4-fold\nC: 10-fold\nD: Equal to HSPC",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_17",
+        "query": "Which factors complicate the amyloid hypothesis? (Select all that apply.)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Coexisting TDP-43 pathology\nB: APOE ε4 genotype\nC: Neuroinflammation\nD: Host resilience/resistance",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_18",
+        "query": "Which FAK inhibitors are classified as dual FAK/PYK2 inhibitors? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Defactinib (VS-6063)\nB: IN10018\nC: PF-562,271\nD: GSK2256098",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_19",
+        "query": "Which BTK isoform is implicated in cisplatin resistance in ovarian cancer?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: BTK-A\nB: p65BTK\nC: BTK-C\nD: All isoforms",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_20",
+        "query": "Which CYP2D6 phenotype is MOST likely to experience toxicity from codeine?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: PM\nB: IM\nC: NM\nD: UM",
+        "gt": "D",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_21",
+        "query": "Which biomarkers are discussed as potential predictors of immunotherapy response in TNBC? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Microsatellite instability (MSI)\nB: Tumor-infiltrating lymphocytes (TILs)\nC: BRCA1/2 mutations\nD: Androgen receptor expression",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_22",
+        "query": "(As of 2023) Which biomarkers are used to assess CFTR modulator efficacy?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Sweat chloride levels\nB: Nasal potential difference\nC: Sputum neutrophil elastase\nD: Intestinal organoid swelling",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_23",
+        "query": "Which diseases are linked to DRD2 dysfunction?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Schizophrenia\nB: Alzheimer’s disease\nC: Bipolar disorder\nD: Parkinson’s disease",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_24",
+        "query": "Which KRAS G12C inhibitors are currently in clinical development (as of 2024)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Sotorasib\nB: Adagrasib\nC: Divarasib\nD: MRTX1133",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_25",
+        "query": "As of 2022, which diseases are potential therapeutic targets for ADORA2A antagonists? (Select all that apply.)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Parkinson’s disease\nB: Alzheimer’s disease\nC: Atrial fibrillation\nD: Asthma",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_26",
+        "query": "Which resistance mechanisms to KRAS G12C inhibitors are observed in clinical studies? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Secondary KRAS mutations (e.g., Y96D)\nB: Amplification of wild-type RAS isoforms\nC: Activation of bypass RTKs (e.g., EGFR)\nD: Loss of PD-L1 expression",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_27",
+        "query": "What is a key safety feature of Dau-d4?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Systemic absorption\nB: Gut-restricted activity\nC: Broad-spectrum antimicrobial effects",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_28",
+        "query": "Which DRD2 inhibitors are associated with metabolic syndrome risks? [as of 2024]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Olanzapine\nB: Ziprasidone\nC: Quetiapine\nD: Lurasidone",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_29",
+        "query": "Which drug is under investigation for chronic urticaria and induces systemic mast cell ablation [as of 2024]? (select one)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Lirentelimab\nB: Barzolvolimab\nC: Omalizumab\nD: Remibrutinib",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_30",
+        "query": "Which FLT3 mutation confers resistance to both Type I and Type II inhibitors?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FLT3-ITD\nB: D835Y\nC: F691L\nD: NPM1 co-mutation",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_31",
+        "query": "What is the primary mechanism by which CTLA-4+ ILC3s regulate CD80 expression on myeloid cells in the intestine?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Direct degradation of CD80 via enzymatic activity\nB: Trogocytosis-mediated reduction of CD80\nC: Transcriptional suppression of CD80 genes\nD: Blocking CD80 synthesis through cytokine secretion",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_32",
+        "query": "In atrial fibrillation, abnormal calcium handling in human cardiomyocytes is linked to:\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Downregulation of ADORA2A\nB: Upregulation of ADORA2A\nC: Loss of ADORA1 expression\nD: Activation of ADA1",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_33",
+        "query": "What is the primary enzymatic role of DNMT1 in pancreatic cancer?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Establish de novo DNA methylation patterns\nB: Maintain DNA methylation during replication\nC: Demethylate tumor suppressor genes\nD: Degrade methylated DNA regions",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_34",
+        "query": "Which CD19 loop is contacted by FMC63’s VL domain?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Loop 1\nB: Loop 2\nC: Loop 3\nD: None",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_35",
+        "query": "Which FLT3 inhibitor is irreversibly bound to C695?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FF-10101\nB: CG806\nC: HM43239\nD: Gilteritinib",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_36",
+        "query": "Which TKIs are in phase 2/3 trials for non-advanced systemic mastocytosis? [as of 2024]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Elenestinib\nB: Bezualestinib\nC: Imatinib\nD: Masitinib",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_37",
+        "query": "Which cellular processes are disrupted by mutant IDH1? Select all that apply.\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Epigenetic regulation\nB: Glycolysis\nC: Cellular differentiation\nD: NADPH production",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_38",
+        "query": "What is the primary mechanism of Maraviroc in Alzheimer's disease models?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Inhibits Aβ production\nB: Blocks CCR5-mediated neuroinflammation\nC: Enhances Tau degradation\nD: Promotes microglial apoptosis",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_39",
+        "query": "Which antipsychotics show significant 5-HT2AR antagonism? (Select all that apply.)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Haloperidol\nB: Clozapine\nC: Risperidone\nD: Amisulpride",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_40",
+        "query": "Which mitochondrial proteins are regulated by IGF1R to reduce oxidative stress?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: UCP3\nB: CPT1A\nC: Mul1\nD: NADPH oxidase",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_41",
+        "query": "Which assay is most commonly used for PD-L1 testing in NSCLC trials?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Ventana SP142\nB: Dako 22C3\nC: Ventana SP263\nD: Dako 28-8",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_42",
+        "query": "In which cell type is NOD2 NOT expressed?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Macrophages\nB: Endothelial cells\nC: Neurons\nD: Pancreatic beta cells",
+        "gt": "D",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_43",
+        "query": "Which of the following polymorphisms in NR3C1 is associated with INCREASED glucocorticoid sensitivity?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: ER22/23EK\nB: N363S\nC: GR-9β\nD: BclI",
+        "gt": "BD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_44",
+        "query": "Which TKI primarily targets wild-type KIT?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Avapritinib\nB: Masitinib\nC: Midostaurin\nD: Imatinib",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_45",
+        "query": "Which VWD subtype is characterized by a gain-of-function mutation in the VWF A1 domain?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Type 2A\nB: Type 2B\nC: Type 2M\nD: Type 2N",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_46",
+        "query": "Which clinical manifestations are associated with primary GCR due to NR3C1 mutations? (Select all apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Hypertension\nB: Hypokalemic alkalosis\nC: Obesity\nD: Hirsutism\nE: Hyperglycemia",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_47",
+        "query": "Which factor contributes to the heterogeneous response to sitagliptin in T2D patients?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Variability in hDPP4 expression\nB: Differences in gut microbial DPP4 activity\nC: Dietary habits of patients",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_48",
+        "query": "What is the primary challenge in CA4 monotherapy?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Rapid metabolism\nB: Residual viable tumor rim post-treatment\nC: High production cost\nD: Poor oral bioavailability",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_49",
+        "query": "Which of the following are resistance mechanisms to mutant IDH1 inhibitors? Select all that apply.\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Loss of heterozygosity (LOH) of the mutant allele\nB: Emergence of second-site IDH1 mutations\nC: Upregulation of wild-type IDH1\nD: Isoform switching to IDH2 mutations",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_50",
+        "query": "Which molecules interact with NOD2 to regulate its signaling?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: ATG16L1\nB: RIP2\nC: HSP70\nD: p53",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_51",
+        "query": "Which kinases are co-targeted with BTK in dual inhibitors to treat AML? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FLT3\nB: NR3C1\nC: MNK\nD: DNMT1",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_52",
+        "query": "Which miRNAs directly target PDCD1 mRNA?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: miR-28\nB: miR-138\nC: miR-21\nD: miR-374b",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_53",
+        "query": "Which PARP inhibitor is approved for adjuvant breast cancer therapy? [as of 2024]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Talazoparib\nB: Niraparib\nC: Olaparib\nD: Veliparib",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_54",
+        "query": "Which COMT inhibitor requires dose adjustment in patients with severe renal impairment (creatinine clearance <30 mL/min)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Tolcapone\nB: Entacapone\nC: Opicapone\nD: None of the above",
+        "gt": "D",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_55",
+        "query": "Which processes contribute to ABCA1 suppression in obesity (as of 2022)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Reduced adiponectin levels\nB: Increased PEST domain activity\nC: Downregulation of ABCG1\nD: Elevated TNFα signaling",
+        "gt": "AD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_56",
+        "query": "Which off-target kinases are inhibited by ibrutinib? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: EGFR\nB: JAK3\nC: PI3K\nD: ITK",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_57",
+        "query": "Which molecular form of AChE is predominant in non-AD adult brains?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: G1 (monomeric)\nB: G2 (dimeric)\nC: G4 (tetrameric)\nD: G0 (inactive)",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_58",
+        "query": "Which cell types express NOD2 in cardiovascular diseases?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Macrophages\nB: Vascular smooth muscle cells (VSMCs)\nC: Cardiomyocytes\nD: Microglia",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_59",
+        "query": "Which transcription factors repress PD-1 expression?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: T-bet\nB: Blimp-1\nC: STAT5\nD: Eomes",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_60",
+        "query": "Which mechanisms reduce GRα/GRβ ratio in secondary GCR?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Pro-inflammatory cytokines (e.g., IL-17)\nB: Elevated HSP90 in the nucleus\nC: Polymorphisms increasing GRβ stability\nD: miR-124 overexpression",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_61",
+        "query": "Which KIT-targeting TKI is FDA-approved for indolent systemic mastocytosis (ISM)? [as of 2024]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Imatinib\nB: Midostaurin\nC: Avapritinib\nD: Masitinib",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_62",
+        "query": "Which transcription factors directly regulate ABCA1 gene expression (as of 2022)? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Liver-X-Receptor (LXR)\nB: Nuclear Factor-κB (NF-κB)\nC: Sterol-Responsive Element Binding Protein 2 (SREBP2)\nD: Peroxisome Proliferator-Activated Receptor γ (PPARγ)",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_63",
+        "query": "Which biomarkers are associated with improved responses to PD-1/PD-L1 inhibitors in TNBC?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: High TMB\nB: TP53 mutations\nC: Stromal tumor-infiltrating lymphocytes (sTILs)\nD: Estrogen receptor expression",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_64",
+        "query": "Which DRD2 inhibitor was approved by the FDA in 2019?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Aripiprazole\nB: Lumateperone\nC: Haloperidol\nD: Quetiapine",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_65",
+        "query": "Which diagnostic techniques are validated for detecting MET exon 14 skipping alterations?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Amplicon-based NGS\nB: Hybrid capture-based NGS\nC: RNA sequencing\nD: Immunohistochemistry (IHC)",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_66",
+        "query": "Which enzymes are E3 ubiquitin ligases for PD-1?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FBW7\nB: USP5\nC: KLHL22\nD: c-Cbl",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_67",
+        "query": "Which domain of FAK is responsible for its localization to focal adhesions?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FERM domain\nB: Kinase domain\nC: FAT domain\nD: SH2 domain",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_68",
+        "query": "Which medications can be used to lower FGF23 levels in CKD? [as of 2024]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Vitamin D analogs\nB: Calcimimetics\nC: Tenapanor\nD: Anti-FGF23 antibodies (burosumab)\nE: Non-calcium phosphate binders",
+        "gt": "BCE",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_69",
+        "query": "Which signaling pathway is activated when ADORA2A is stimulated?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Decreased intracellular cAMP\nB: Increased intracellular cAMP\nC: Activation of Gi proteins\nD: Inhibition of Gs proteins",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_70",
+        "query": "Which FGF receptor is predominantly involved in FGF23-mediated cardiac hypertrophy?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FGFR1\nB: FGFR3\nC: FGFR4\nD: FGFR2",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_71",
+        "query": "Which of the following F3 SNPs has been associated with preterm birth?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: rs3917643\nB: rs958587\nC: rs610277\nD: rs1361600",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_72",
+        "query": "Which cancers are associated with PIK3CA amplification (as of 2020)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Ovarian carcinoma\nB: Bladder cancer\nC: Breast cancer\nD: Gastrointestinal stromal tumors",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_73",
+        "query": "Which adverse event is specifically associated with ivosidenib therapy in AML?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Neuropathy\nB: QTc prolongation\nC: Hypothyroidism\nD: Pancreatitis",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_74",
+        "query": "Which inhibitor blocks CXCL12/CXCR4 to reduce megakaryocyte migration in pulmonary fibrosis?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Candesartan\nB: WZ811\nC: Sorafenib\nD: AMD3100",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_75",
+        "query": "Which IDH1 inhibitor is currently FDA-approved for advanced cholangiocarcinoma (as of 2022)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Enasidenib\nB: BAY1436032\nC: Ivosidenib\nD: Olutasidenib",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_76",
+        "query": "Which cancer type has the highest estimated prevalence of IDH1 mutations as of 2022?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Cholangiocarcinoma\nB: Gliomas\nC: Acute myeloid leukemia (AML)\nD: Chondrosarcoma",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_77",
+        "query": "Which experimental models demonstrated the role of CTLA-4+ ILC3s in regulating CD80? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: C. rodentium infection\nB: Anti-CD40-induced colitis\nC: Naive T cell transfer colitis\nD: Germ-free mouse models",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_78",
+        "query": "Which of the following AChE inhibitors is an allosteric modulator of nicotinic receptors?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Donepezil\nB: Rivastigmine\nC: Galantamine\nD: Memantine",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_79",
+        "query": "Which cell line modeled low CD19 expression (~200 molecules/cell)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: NALM6/WT\nB: NALM6/12-39\nC: NALM6/12-4\nD: Raji",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_80",
+        "query": "Which PPAR agonists have shown renal effects in clinical trials?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Fenofibrate\nB: Lanifibranor\nC: Elafibranor\nD: Rosiglitazone",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_81",
+        "query": "What tumor-intrinsic effects are induced by EZH2 inhibition?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Apoptosis via ERV re-expression\nB: Increased tumor cell proliferation\nC: ULBP1 upregulation (NK ligand)\nD: Enhanced DNA repair capacity",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_82",
+        "query": "Which biological processes are regulated by MAOA in prostate cancer?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Epithelial-mesenchymal transition (EMT)\nB: Angiogenesis\nC: Autophagy\nD: DNA repair",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_83",
+        "query": "Which physiological effects are observed when ADORA2A is blocked in cancer therapy?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased intracellular cAMP\nB: Enhanced T-cell-mediated tumor killing\nC: Reduced immunosuppression in the tumor microenvironment\nD: Activation of HIF-1α signaling",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_84",
+        "query": "Which structural domain of PDE5 regulates catalytic activity and dimerization?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Catalytic domain\nB: GAF domains\nC: C-terminal domain\nD: Kinase domain",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_85",
+        "query": "Which pathways are regulated by DNMT1 in TNBC CSCs?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: ISL1 suppression\nB: BCL11A interaction\nC: CD80 activation\nD: ERα hypermethylation",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_86",
+        "query": "Which factors stimulate FGF23 production in CKD?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Dietary phosphate intake\nB: Iron deficiency\nC: Elevated serum calcium\nD: Inflammation",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_87",
+        "query": "What biomarkers correlate with EZH2 inhibition efficacy in preclinical models?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: High PD-1 expression on stromal T cells\nB: Increased H3K27me3 levels\nC: Elevated CXCL9/CXCL10 in TME\nD: Reduced CDKN2A expression",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_88",
+        "query": "Which miRNAs are implicated in glucocorticoid resistance by targeting GRα?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: miR-124\nB: miR-142-3p\nC: miR-77\nD: miR-96\nE: miR-131",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_89",
+        "query": "Which type of solid malignancies has an estimated highest prevalence of PIK3CA mutations?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Bladder cancer\nB: Endometrial cancer\nC: Breast cancer\nD: Colorectal cancer",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_90",
+        "query": "Which neurodegenerative diseases are directly linked to MAO-B overexpression? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Alzheimer’s disease (AD)\nB: Parkinson’s disease (PD)\nC: Myocardial infarction\nD: Leukemia",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_91",
+        "query": "Which mutation in hsTYR is associated with complete suppression of its monophenolase activity, leading to oculocutaneous albinism type 1 (OCA1)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: H304A\nB: S380P\nC: K306R\nD: R308K",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_92",
+        "query": "In which cancer type does IDH1 mutation confer a survival advantage?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Low-grade glioma\nB: AML\nC: Chondrosarcoma\nD: Glioblastoma",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_93",
+        "query": "Which of the following risk stratification tools are included in current prostate cancer early detection strategies? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: PSA velocity\nB: PSA density\nC: Family history\nD: Risk calculators\nE: Multiparametric MRI\nF: Prostate Imaging–Reporting and Data System (PI-RADS)",
+        "gt": "BCDEF",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_94",
+        "query": "What advantages does Dau-d4 have over sitagliptin?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Selectively inhibits mDPP4\nB: Binds hDPP4 with high affinity\nC: Improves glucose tolerance in diabetic mice",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_95",
+        "query": "Which tissues/organs express high levels of BChE?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Plasma\nB: Liver\nC: Skeletal muscle\nD: Brain",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_96",
+        "query": "Which of the following diseases is NOT strongly associated with NOD2 mutations?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Crohn’s disease\nB: Blau syndrome\nC: Guillain-Barré syndrome\nD: Type 1 diabetes",
+        "gt": "D",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_97",
+        "query": "Which of the following outcomes occur when CTLA-4+ ILC3s are absent in mice? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased CD80 on myeloid cells\nB: Reduced PD-L1 bioavailability\nC: Enhanced Treg cell activity\nD: Elevated colonic neutrophils",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_98",
+        "query": "In human studies, CTLA-4+ ILC3s were altered in which conditions? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Crohn’s disease\nB: Ulcerative colitis\nC: Cholangiocarcinoma\nD: Acute bacterial infections",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_99",
+        "query": "The interaction between CD80 and PD-L1 on myeloid cells occurs in which manner?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Trans-interaction\nB: Cis-interaction\nC: Paracrine signaling\nD: Autocrine signaling",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_100",
+        "query": "Which of the following AR mutations are associated with resistance to prostate cancer therapies?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: F877L\nB: T878A\nC: G1010L\nD: Y121S",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_101",
+        "query": "Which PPAR agonist showed reduced stroke risk in the IRIS trial?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Fenofibrate\nB: Pioglitazone\nC: Lanifibranor",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_102",
+        "query": "Which of the following adverse events of ibrutinib is likely associated with its inhibition of TEC kinase?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Rash\nB: Atrial fibrillation\nC: Bleeding\nD: Diarrhea",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_103",
+        "query": "Which BAFF-targeting drugs failed in phase III trials? [as of 2021] (select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Belimumab\nB: Tabalumab\nC: Atacicept\nD: Blisibimod",
+        "gt": "BCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_104",
+        "query": "Which therapies are being investigated in combination with mutant IDH1 inhibitors for AML? [as of 2021] Select all that apply.\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Azacitidine\nB: Venetoclax\nC: PARP inhibitors\nD: Nivolumab",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_105",
+        "query": "(As of 2023)Which CFTR mutation class is characterized by impaired channel gating?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Class I\nB: Class II\nC: Class III\nD: Class IV",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_106",
+        "query": "Which natural compound inhibits the PI3K-Akt-mTOR pathway by reducing p-Akt and p-mTOR levels in non-small cell lung cancer?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Curcumin\nB: Vitexin\nC: Oridonin\nD: Arctigenin",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_107",
+        "query": "Which mechanism differentiates CTLA-4 inhibitors from PD-1/PD-L1 inhibitors?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Targeting later-stage T-cell activation\nB: Inhibiting myeloid suppressor cells\nC: Blocking initial T-cell priming\nD: Enhancing antigen presentation",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_108",
+        "query": "Which mutations are linked to ibrutinib resistance?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: BTK C481S\nB: EGFR L858R\nC: MYC overexpression\nD: CCND1 mutations",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_109",
+        "query": "Which factors complicate the standardization of MET amplification diagnostics?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Variability in assay cut-off values\nB: Tumor heterogeneity\nC: Lack of consensus on NGS vs. FISH thresholds\nD: High cost of testing",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_110",
+        "query": "What is the primary mechanism by which first- and second-generation BTK inhibitors like ibrutinib and acalabrutinib bind to BTK?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Non-covalent interaction with the ATP-binding pocket\nB: Covalent binding to cysteine 481 (C481)\nC: Degradation via proteolysis-targeting chimera (PROTAC)\nD: Inhibition of post-translational modifications",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_111",
+        "query": "Which mechanisms are implicated in IGF1R-mediated reduction of oxidative stress in liver fibrosis?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: activate MAPK/ERK1/2 signaling pathway\nB: Inhibition of miR-1\nC: Activation of NOX enzymes\nD: activate IGF1R/PI3K/AKT signaling pathway",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_112",
+        "query": "What mechanisms does daratumumab use to target CD38 in autoimmune diseases?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Inhibits NAD hydrolysis\nB: Promotes antibody-dependent cellular cytotoxicity (ADCC)\nC: Blocks CD38 adhesion function\nD: Restores NK cell cytotoxic function\nE: Enhances mitochondrial autophagy",
+        "gt": "BD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_113",
+        "query": "Which signaling pathway is activated by XOR-derived ROS to promote angiogenesis?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: TGF-β\nB: NF-κB\nC: JAK-STAT\nD: Wnt/β-catenin",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_114",
+        "query": "Which domains are part of the BTK protein structure?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Tyrosine kinase (TK) domain\nB: Pleckstrin homology (PH) domain\nC: Nuclear localization signal (NLS) domain\nD: Src homology 2 (SH2) domain",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_115",
+        "query": "Which of the following cyclins partners with CDK4 to drive G1-S phase progression?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Cyclin A\nB: Cyclin B\nC: Cyclin D\nD: Cyclin E",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_116",
+        "query": "Which FLT3 inhibitor is approved in Japan for relapsed/refractory AML but not by the FDA? [as of 2021]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Midostaurin\nB: Quizartinib\nC: Crenolanib\nD: Sorafenib",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_117",
+        "query": "Which of the following cancer types is MAOA significantly DOWNREGULATED in?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Prostate cancer\nB: Liver cancer\nC: Classic Hodgkin’s lymphoma\nD: Breast cancer",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_118",
+        "query": "Which stromal components express MAOA and contribute to prostate cancer progression?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Tumor-associated macrophages (TAMs)\nB: Intratumoral T cells\nC: Cancer-associated fibroblasts (CAFs)\nD: Endothelial cell",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_119",
+        "query": "What downstream effects are triggered by AChE-derived peptides?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Calcium influx\nB: Aβ release\nC: Tau dephosphorylation\nD: AChE compensatory release",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_120",
+        "query": "Which assay is recommended over VWF:RCo for measuring VWF activity in the 2021 guidelines?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: VWF:GPIBR\nB: VWF:CB\nC: FVIII:C\nD: RIPA",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_121",
+        "query": "Which multikinase inhibitor has the highest selectivity for VEGFR2 over RET?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Cabozantinib\nB: Vandetanib\nC: Lenvatinib\nD: Motesanib",
+        "gt": "D",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_122",
+        "query": "In chronic viral infections, which factor sustains PD-1 expression by opposing T-bet?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Blimp-1\nB: FoxO1\nC: Eomes\nD: NF-Κb",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_123",
+        "query": "Which signaling pathway interacts with DNMT1 to sustain PDAC tumorigenesis?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Wnt/β-catenin\nB: Hedgehog\nC: NF-κB\nD: MAPK/ERK",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_124",
+        "query": "Which DRD2 inhibitors are approved for bipolar disorder? [as of 2024] (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Lumateperone\nB: Thioridazine\nC: Asenapine\nD: Pramipexole",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_125",
+        "query": "Which pathways are involved in IL-23-mediated CTLA-4 induction on ILC3s?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: FOXO1\nB: STAT3\nC: NF-κB\nD: MAPK",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_126",
+        "query": "Which patient populations show significant benefit from PARP inhibitors beyond germline BRCA1/2 mutations? [as of 2024]\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Somatic BRCA1/2 variants\nB: Germline PALB2 alterations\nC: ATM-associated tumors\nD: CHEK2-associated tumors",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_127",
+        "query": "Which molecular changes occur in the NAc after chronic cocaine exposure? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased GluN2B-containing NMDARs\nB: Insertion of GluA2-lacking AMPARs\nC: Reduced LTD capacity\nD: Enhanced LTP induction",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_128",
+        "query": "Which CD19 residues are critical for binder interactions? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Arg163\nB: Lys220\nC: Pro222\nD: Leu174",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_129",
+        "query": "In TNBC, DNMT1 overexpression is driven by:\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Hypomethylation of oncogenes\nB: Mutations in ESR1\nC: circ-DNMT1-mediated autophagy\nD: All of the above",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_130",
+        "query": "Which KIT-targeting TKIs inhibit both wild-type and D816V-mutated KIT? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Imatinib\nB: Midostaurin\nC: Avapritinib\nD: Elenestinib",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_131",
+        "query": "Which mutation is strongly associated with de novo resistance to CDK4/6 inhibitors?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: TP53\nB: RB1\nC: BRCA1\nD: KRAS",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_132",
+        "query": "Which structural features of PCSK9 are critical for its interaction with LDLR?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Catalytic domain (CD)\nB: C-terminal CHRD domain\nC: Prodomain\nD: Signal peptide",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_133",
+        "query": "What are the secondary effects of AChE inhibitors in preclinical models of Alzheimer’s disease?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Reduced amyloid production\nB: Increased neurogenesis\nC: Enhanced mitochondrial dysfunction\nD: Attenuated neuroinflammation",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_134",
+        "query": "Which approaches are currently being explored to treat Alzheimer’s disease? [as of 2023] (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Amyloid-lowering therapies\nB: Tau-targeted therapies\nC: Neuroinflammation modulation\nD: Gene therapy targeting amyloid precursor protein (APP)\nE: Lifestyle modification",
+        "gt": "ABCE",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_135",
+        "query": "Which natural products exhibit PDE5 inhibitory activity?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Icariin (from Epimedium species)\nB: Curcumin (from turmeric)\nC: Leonurine (from Leonurus artemisia)\nD: Quercetin (from Nymphaea pubescens)",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_136",
+        "query": "What are the dual roles of uric acid in cancer (select all that apply)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Antioxidant defense\nB: Pro-oxidant activity\nC: Immune suppression\nD: Enhancing glycolysis",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_137",
+        "query": "Which DRD2 inhibitors act as partial agonists?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Aripiprazole\nB: Haloperidol\nC: Cariprazine\nD: Lumateperone",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_138",
+        "query": "Which of the following compounds have been shown to target ITGβ1 in breast cancer cells? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Tubeimoside V\nB: Pimozide\nC: Matrine\nD: Excisanin A\nE: Cisplatin",
+        "gt": "ABCD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_139",
+        "query": "Which biomarkers are under investigation to predict PARP inhibitor response beyond BRCA1/2 status?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: RAD51 foci formation\nB: BRCA1 promoter methylation\nC: PD-L1 expression\nD: HRD score on circulating tumor DNA (ctDNA)",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_140",
+        "query": "Which signaling pathway is NOT directly regulated by DRD2 activation?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: cAMP/PKA\nB: PI3K/Akt\nC: NF-κB\nD: MAPK",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_141",
+        "query": "Which VWD subtype is inherited recessively?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Type 2A\nB: Type 2N\nC: Type 2M\nD: Type 1",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_142",
+        "query": "What mechanisms link AChE to Aβ pathology in Alzheimer’s disease? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: AChE promotes Aβ fibrilization via its peripheral anionic site\nB: AChE inhibits α7 nicotinic receptor activity\nC: AChE suppresses insulin signaling\nD: AChE overexpression upregulates PS-1-mediated amyloidogenic processing",
+        "gt": "AD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_143",
+        "query": "Which mutation is estimated to be present in >90% of patients with primary MCAS?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: KIT D816V\nB: JAK2 V617F\nC: BRAF V600E\nD: EGFR T790M",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_144",
+        "query": "Which biomarkers are used to assess KIT-targeting therapy efficacy in MCAS?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Serum tryptase\nB: Urinary LTE₄\nC: CD117 expression\nD: MRGPRX2 levels",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_145",
+        "query": "Which pathological hallmarks of AD are directly linked to AChE activity?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Senile plaques\nB: Neurofibrillary tangles\nC: Astrogliosis\nD: Synaptic loss",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_146",
+        "query": "Which biomarkers are currently lacking validation for novel immune-checkpoint inhibitors?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: PD-L1 expression\nB: TIGIT expression\nC: TIM-3 expression\nD: Tumor mutational burden",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_147",
+        "query": "Which therapies are used for von Willebrand disease management? [as of 2024] (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Desmopressin\nB: Recombinant VWF concentrates\nC: Emicizumab\nD: Platelet transfusions",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_148",
+        "query": "Which mechanisms contribute to type 1 VWD pathogenesis?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Enhanced VWF clearance\nB: Impaired VWF storage/secretion\nC: Autoantibodies against VWF\nD: Reduced VWF synthesis",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_149",
+        "query": "Which of the following mechanisms activate RET in human cancers? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Chromosomal rearrangements fusing RET kinase domain with dimerization partners\nB: Germline missense mutations in the extracellular cysteine-rich domain\nC: Somatic mutations at the V804 gatekeeper residue\nD: Ligand-independent activation via GDNF binding",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_150",
+        "query": "Which mechanisms contribute to PARP inhibitor resistance?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Upregulation of ABC transporters\nB: BRCA1 promoter demethylation\nC: Overexpression of RAD51\nD: Increased PARP1 trapping",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_151",
+        "query": "What recommendation did the United States Preventive Services Task Force (USPSTF) make regarding PSA screening in 2012?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Recommended PSA screening for all men over 40\nB: Recommended against screening for all men\nC: Recommended screening only for men with family history\nD: Recommended individualized testing in well-informed men",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_152",
+        "query": "Ketamine’s inhibition of sucrose-seeking behavior is associated with decreased expression of which receptor in the NAc?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: GluN2B\nB: mGluR5\nC: GluA1\nD: GluN2A",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_153",
+        "query": "Which of the following biomarkers are used in the diagnosis of Alzheimer's disease? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Amyloid β (Aβ42)\nB: Tau (pTau181)\nC: Glial fibrillary acidic protein (GFAP)\nD: Neuroinflammation markers\nE: Total tau",
+        "gt": "ABE",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_154",
+        "query": "Which proline-rich motif in CD2’s cytoplasmic domain binds Lck?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: P1\nB: P2\nC: P3\nD: P4",
+        "gt": "D",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_155",
+        "query": "Which of the following are limitations of using mushroom tyrosinase (abTYR) to model human tyrosinase (hsTYR) inhibition? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Divergence in active-site residues\nB: Lack of glycosylation in abTYR\nC: Similar inhibition values for kojic acid and hydroquinone\nD: High structural conservation of the 302–310 loop",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_156",
+        "query": "What downstream effects occur when the HTR1A/cAMP pathway is inhibited?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased neuronal apoptosis\nB: Enhanced neuroprotective processes\nC: Reduced PKA activity\nD: Elevated inflammatory cytokines (e.g., TNF-α, IL-6)",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_157",
+        "query": "Which therapies are mutation-agnostic?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: CFTR modulators\nB: TMEM16A activators\nC: Gene editing\nD: Antisense oligonucleotides",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_158",
+        "query": "Which adverse effects are common to both first- and second-generation DRD2 inhibitors?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: metabolic syndrome\nB: Tardive dyskinesia\nC: EPS\nD: Anaphylactic shock",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_159",
+        "query": "Which glutamate receptor subunit is specifically increased in the VTA 3 hours after a single cocaine injection?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: GluA1\nB: GluA2\nC: GluN2A\nD: GluN2C",
+        "gt": "A",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_160",
+        "query": "Which signaling pathway is directly inhibited by AG8?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Wnt\nB: ET-1/ETA/YAP\nC: Notch\nD: TGF-β",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_161",
+        "query": "Which glutamate receptor types are directly involved in metaplasticity phenomena in addiction? (Select all that apply)\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: NMDA receptors (NMDARs)\nB: AMPA receptors (AMPARs)\nC: Metabotropic glutamate receptors (mGluRs)\nD: Kainate receptors",
+        "gt": "ABC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_162",
+        "query": "Which DNMT1 polymorphisms are associated with increased TNBC risk?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: rs2288349 (C > T in intron 27)\nB: rs16999593 (T > C in exon 4)\nC: rs2228611 (AG genotype)\nD: rs2228612 (GG phenotype)",
+        "gt": "AB",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_163",
+        "query": "Which of the following is a validated biomarker for CA4 therapy?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: β-Galactosidase activity\nB: HER2 expression\nC: Hypoxia-inducible factors\nD: PD-L1 levels",
+        "gt": "AC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_164",
+        "query": "Which AChE-derived peptide is most potent in inducing calcium influx?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: T15\nB: T14\nC: T30\nD: Aβ",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_165",
+        "query": "Which of the following mechanisms is responsible for PCSK9-mediated LDLR degradation?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Ubiquitination of LDLR\nB: Direct enzymatic cleavage of LDLR\nC: Trafficking LDLR to lysosomes via CAP-1 binding\nD: Inhibition of LDLR recycling to the cell surface",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_166",
+        "query": "Which cellular mechanisms are implicated in SCN5A-associated DCM (select all that apply)?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased late sodium current\nB: Fibrofatty infiltration of the myocardium\nC: Intracellular calcium overload\nD: Conduction slowing due to Na+ channel loss",
+        "gt": "ACD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_167",
+        "query": "Which biomarker predicts PARP inhibitor sensitivity better than genomic scars?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: BRCA1 promoter methylation\nB: RAD51 foci formation\nC: HRD score\nD: BRCA2 somatic mutations",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_168",
+        "query": "Which pathways are directly activated by IGF1R signaling in liver fibrosis?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Wnt/β-catenin\nB: PI3K/AKT\nC: MAPK/ERK\nD: TGF-β/Smad",
+        "gt": "BC",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_169",
+        "query": "Which residue in MAO-B acts as a 'gate' controlling substrate specificity?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Tyr326\nB: Ile199\nC: Phe168\nD: Cys172",
+        "gt": "B",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_170",
+        "query": "Which of the following AR mutations are commonly found in drug-resistant prostate cancer?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: F877L\nB: T878A\nC: Y121S\nD: W742L",
+        "gt": "ABD",
+        "category": "",
+        "answer_type": "multipleChoice"
+    },
+    {
+        "id": "trqa_lit_171",
+        "query": "In human IBD patients, the frequency of CTLA-4+ ILC3s correlates with which myeloid cell feature?\n\nThis is a multiple-choice question, and more than one option may be correct. Please select all that apply.\n\nA: Increased CD80 expression\nB: Reduced α7 nicotinic receptor activity\nC: Elevated free PD-L1 levels\nD: Enhanced IL-23 production",
+        "gt": "C",
+        "category": "",
+        "answer_type": "multipleChoice"
+    }
+]

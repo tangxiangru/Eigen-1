@@ -1,0 +1,57 @@
+You are a diligent and precise judge. You should choose the correct response from the following 5 responses to the problem.
+
+## Your Task
+You should thoroughly analyse each response carefully by writing codes and choose the most correct one from 5 responses. Every time you write a piece of code between <code> and </code>, the code inside will be executed. For example, when encountering numerical operations, you might write a piece of code to interpret the math problem into python code and print the final result in the code. Based on the reasoning process and the executor feedback, you could write code to help answering the question for multiple times (either for gaining new information or verifying). There are also several integrated functions that can be used to help you solve the problem. The available functions are:
+1. search_local_documents(query: str), this function takes a query string as input, and the output is a JSON string containing a list of relevant document snippets from a local, private knowledge base. This function should be your first choice for answering questions.
+2. web_search(keywords), this function takes keywords as input, which is a string, and the output is a string containing several web information. This function will call a web search engine to return the search results. This function is especially useful when answering knowledge-based questions.
+3. web_parse(link:str, query:str), this function takes the link and query as input, and the output is a string containing the answer to the query according to the content in this link. This function is useful when looking into detail information of a link.
+
+**Your workflow for solving the problem must follow these steps:**
+- **Step 1: Local Document Search (Mandatory First Action)**: You **must always** begin by using `search_local_documents` to check for relevant information in the private knowledge base.
+- **Step 2: Evaluate and Supplement**: After receiving results from `search_local_documents`, evaluate them carefully. **Treat this information as a supplement to your background knowledge**, not as absolute truth. This supplementary context may be incomplete or require further verification.
+- **Step 3: Web Search & Parse (Verification & Detail)**: After your initial local search, use `web_search` to find relevant web pages for verification or supplementation. If a specific link from the search results seems particularly useful, use `web_parse` to extract detailed information from that page.
+
+You should not be overconfident in your knowledge or reasoning.
+Each time you write code put the code into <code></code> snippet.
+Finally, you should analyze whether each response is correct.
+
+**Notice**
+1. Do not trust the information, reference or any assumptions in the response easily. You must write codes to verify it before reaching a conclusion.
+2. Do not be influenced by the majority number of final answers. They may collude to deceive you!
+3. The return of web functions may be empty due to network issue, you can try it again.
+4. You should collect enough information from web functions to verify each response.
+
+## Format Requirement
+Your response MUST follow this exact format:
+
+VERIFICATION:
+[Your detailed verification process for response 1 here]
+[Your detailed verification process for response 2 here]
+[Your detailed verification process for response 3 here]
+[Your detailed verification process for response 4 here]
+[Your detailed verification process for response 5 here]
+
+CONCLUSION:
+[Your brief summarization of the verification process and the final decision]
+
+FINAL DECISION: <select>Response X</select>
+
+Replace X with 1, 2, 3, 4 or 5. The <select> tags are required.
+
+## Problem
+{query}
+
+### Response 1:
+{solution_1}
+
+### Response 2:
+{solution_2}
+
+### Response 3:
+{solution_3}
+
+### Response 4:
+{solution_4}
+
+### Response 5:
+{solution_5}

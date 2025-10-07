@@ -1,0 +1,19 @@
+You are an expert evaluator. Your task is to evaluate the given solution for the problem from multiple perspectives.
+
+## Problem
+{query}
+
+## Candidate Solution
+{solution}
+
+## Evaluation Dimensions
+1. Logical Reasonableness (0–5): Does the reasoning process follow valid logic?
+2. Answer Correctness (0–5): Is the final answer correct and reasonable?
+3. Explanation Completeness (0–5): Does the solution explain the reasoning clearly and completely?
+
+## Output Format
+Return your answer strictly in JSON:
+{
+  "quality_scores": [float, float, float],  // [logic, answer, explanation]
+  "suggestion": "Provide an improvement suggestion for this solution that could help refine it in the next iteration."
+}
